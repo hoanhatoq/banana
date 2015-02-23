@@ -1,0 +1,3375 @@
+
+msgid "エネルギー効率評価システム | 一般社団法人 日本工業炉協会"
+msgstr "Evalueation System for Energy Effeciency of TPE | Japan Industrial Furnace Manufacturers Association"
+
+msgid "連続式金属加熱炉"
+msgstr "Reheating burnace for steel"
+
+msgid "アルミ溶解炉"
+msgstr "Batch-type aluminium melting furnace"
+
+msgid "雰囲気熱処理炉"
+msgstr "Furnaces with protective or reactive atomosphere"
+
+msgid "使用"
+msgstr "YES"
+
+msgid "\"不使用"
+msgstr "NO"
+
+msgid "ユーザー名またはパスワードが間違っています"
+msgstr "Wrong user ID or Password."
+
+msgid "COMPLANメール配信システム | 管理画面"
+msgstr "Evalueation System for Energy Effeciency of TPE | Japan Industrial Furnace Manufacturers Association"
+
+msgid "パスワードが更新しました"
+msgstr "Password has been updated."
+
+msgid "パスワードが更新しなかった"
+msgstr "Failed password update."
+
+msgid "パスワードの変更の依頼"
+msgstr "Request of password changes"
+
+msgid "ユーザーの新しいパスワード： "
+msgstr "New password： "
+
+msgid "メールを送信しました"
+msgstr "Mail has been sent."
+
+msgid "メールが存在しない"
+msgstr "E-mail address not exist."
+
+msgid "パスワードと同様に入力してください"
+msgstr "Please enter like a password."
+
+msgid "ユーザー名は既に存在しています。他のユーザー名を入力してください"
+msgstr "User id already exist. Please enter the other user id."
+
+msgid "ユーザーアカウントは誤っています"
+msgstr "User id is wrong."
+
+msgid "会員情報を更新完了しました"
+msgstr "User information has been updated."
+
+msgid "ユーザーアカウントが削除されました"
+msgstr "User account has been deleted."
+
+msgid "ユーザーアカウントの削除に失敗しました。再度お試しください。"
+msgstr "Remove user account has failed. Please try again."
+
+msgid "ログインID・パスワードが間違っています"
+msgstr "Wrong user ID or Password."
+
+msgid " メールアドレスは既に登録されています"
+msgstr "Mail address already exist."
+
+msgid "会員"
+msgstr "Member"
+
+msgid "を登録しました"
+msgstr "has been registered."
+
+msgid "エネルギー効率評価システム | 一般社団法人 日本工業炉協会"
+msgstr "Evalueation System for Energy Effeciency of TPE | Japan Industrial Furnace Manufacturers Association"
+
+msgid "結果の閲覧"
+msgstr "See the results"
+
+msgid "会員管理"
+msgstr "Member"
+
+msgid "管理者管理"
+msgstr "Administrator"
+
+msgid "管理者新規登録"
+msgstr "New registration of administrator"
+
+msgid "全ての項目を入力後、保存してください"
+msgstr "Input all field, and save."
+
+msgid "ログインID"
+msgstr "Login ID"
+
+msgid "パスワード"
+msgstr "Password"
+
+msgid "確認パスワード"
+msgstr "Password for confirmation"
+
+msgid "ステータス"
+msgstr "Status"
+
+msgid "有効"
+msgstr "Valid"
+
+msgid "無効"
+msgstr "Invalid"
+
+msgid "保存する"
+msgstr "Save"
+
+msgid "< 戻る"
+msgstr "&lt; Back"
+
+msgid "▲ページトップへ"
+msgstr "TOP PAGE"
+
+msgid "管理者情報編集"
+msgstr "Edit administrator information"
+
+msgid "管理者一覧"
+msgstr "Administrator list"
+
+msgid "検索"
+msgstr "Search"
+
+msgid "管理者を追加"
+msgstr "Add new administrator"
+
+msgid "会員名"
+msgstr "Name"
+
+msgid "メールアドレス"
+msgstr "E-mail address"
+
+msgid "編集"
+msgstr "Edit"
+
+msgid "削除"
+msgstr "Delete"
+
+msgid "削除してよろしいですか？"
+msgstr "Are you sure you want to delete?"
+
+msgid "前のページ "
+msgstr "Previous page"
+
+msgid " 次のページ"
+msgstr "Next page"
+
+msgid "工業炉の効率評価解析ツール管理ページ"
+msgstr "Admin | Evalueation System for Energy Effeciency of TPE"
+
+msgid "ログインIDを入力してください"
+msgstr "Please enter login id"
+
+msgid "パスワードを入力してください"
+msgstr "Please enter password"
+
+msgid "パスワードを忘れた方はこちら"
+msgstr "Forget password?"
+
+msgid "ログイン"
+msgstr "Login"
+
+msgid "Admin.header_logo.gif"
+msgstr "Admin.header_logo_eng.gif"
+
+msgid "エネルギー効率評価システム"
+msgstr "Evalueation System for Energy Effeciency of TPE"
+
+msgid "ログアウト"
+msgstr "Logout"
+
+msgid "ログアウトしてよろしいですか？"
+msgstr "Are you sure you want to logout?"
+
+msgid "会員新規登録"
+msgstr "New registration of member"
+
+msgid "入力後、保存してください"
+msgstr "Please entry and save"
+
+msgid "は必須項目となります"
+msgstr "required item"
+
+msgid "ログインID "
+msgstr "Login id"
+
+msgid "パスワード "
+msgstr "Password"
+
+msgid "確認パスワード "
+msgstr "Password for confirmation"
+
+msgid "ステータス "
+msgstr "Status"
+
+msgid "会員情報編集"
+msgstr "Edit member"
+
+msgid "会員一覧"
+msgstr "Member list"
+
+msgid "会員を追加"
+msgstr "Add new member"
+
+msgid "パスワード送付"
+msgstr "Send password"
+
+msgid "メールアドレスを入力してください"
+msgstr "Enter e-mail address"
+
+msgid "結果出力表"
+msgstr "Result"
+
+msgid "出力日"
+msgstr "Modified date"
+
+msgid " 出力表 1 代表的入力条件の表示出力"
+msgstr "Output 1: Typical input conditions"
+
+msgid "項目名称"
+msgstr "Item name"
+
+msgid "出力値"
+msgstr "Output value"
+
+msgid "単位"
+msgstr "Unit"
+
+msgid " 炉の種類"
+msgstr "TPE type"
+
+msgid " 炉名"
+msgstr "TPE name"
+
+msgid " 型式"
+msgstr "Model"
+
+msgid " 加熱量"
+msgstr "Nominal capacity"
+
+msgid " 被熱物出口温度"
+msgstr "Temp. of product at outlet"
+
+msgid " 酸化減量"
+msgstr "Loss of mas by oxidization"
+
+msgid " 燃料名称"
+msgstr "Fuel"
+
+msgid " 発熱量"
+msgstr "Calorific value"
+
+msgid " 燃料流量"
+msgstr "Fuel consumption"
+
+msgid " 空気流量"
+msgstr "Volume of combustion air"
+
+msgid " リジェネの有無"
+msgstr "Usage of regenerative burners"
+
+msgid " 炉入口空気温度"
+msgstr "Emp. of combustion air at boundary"
+
+msgid " 排ガス温度"
+msgstr "Temp. of exhaust gas (at outlet of hearring chamber)"
+
+msgid " 排ガス酸素濃度"
+msgstr "Value fraction of oxygen"
+
+msgid " 出力表 2 総合効率シート"
+msgstr "Output 2: Energy loss or heat dissipution"
+
+msgid " 燃料入熱"
+msgstr "Fuel(calorific value)"
+
+msgid " 付着物入熱"
+msgstr "Wastel(calorific value)"
+
+msgid " 雰囲気ガス製造入熱"
+msgstr "Energy(input) for generation of atmosphere gas"
+
+msgid " 燃料換算全電気使用量"
+msgstr "Fuel equivalent the energy of electricity "
+
+msgid " 燃料入口顕熱"
+msgstr "Fuel (sensible heat)"
+
+msgid " 空気入口顕熱"
+msgstr "Combustion air (sensible heat)"
+
+msgid " 蒸気霧化材顕熱"
+msgstr "Atmization agent(sensible heat)"
+
+msgid " 反応熱"
+msgstr "Heat of reaction"
+
+msgid " 侵入空気顕熱"
+msgstr "infiltration air (sensible heat)"
+
+msgid " 有効熱"
+msgstr "Effective energy"
+
+msgid " ジグ損失"
+msgstr "JIG(sensible heat)"
+
+msgid " 酸化物顕熱損失"
+msgstr "Oxdizel substance(sensible heat)"
+
+msgid " 排ガス損失"
+msgstr "Exhaust gas(sensible heat)"
+
+msgid " 雰囲気ガス損失"
+msgstr "Atmosphere gas(sensible heat)"
+
+msgid " 炉体放散損失"
+msgstr "Heat emission from wall surface"
+
+msgid " 開口部損失"
+msgstr "Radiation from opening"
+
+msgid " 部品熱伝導損失"
+msgstr "Heat flux via feed thru parts"
+
+msgid " 冷却水損失"
+msgstr "Cooling water(sensible heat)"
+
+msgid " 放炎損失"
+msgstr "Dischanged blowout(sensible heat)"
+
+msgid " 蓄熱損失"
+msgstr "Heat strange loss(sensible heat)"
+
+msgid " その他損失"
+msgstr "Other heat losses"
+
+msgid " ブロワー電力"
+msgstr "Blower power"
+
+msgid " コンプレッサー電力"
+msgstr "Compressors power"
+
+msgid " ポンプ電力"
+msgstr "Pumps power"
+
+msgid " 駆動電力"
+msgstr "Drive systems"
+
+msgid " その他電力"
+msgstr "Other equipment"
+
+msgid " 電力損失"
+msgstr "Other equipment"
+
+msgid " 酸素製造電力量"
+msgstr "Generation of oxygen"
+
+msgid " 雰囲気ガス製造電気入熱"
+msgstr "Generation of atmosphere gas"
+
+msgid " 雰囲気ガス製造燃料入熱"
+msgstr "Generation of atmosphere gas"
+
+msgid " 電気製造損失"
+msgstr "Electrical generation loss"
+
+msgid " 出力表 3 Electrical　BALANCE"
+msgstr "Output 3:  Electrical　BALANCE"
+
+msgid "比率（%）"
+msgstr "Ratio（%）"
+
+msgid " "
+msgstr " "
+
+msgid " 電気加熱入熱"
+msgstr "Thermal energy consumption by electrical heaat source"
+
+msgid " 周波数変換損失"
+msgstr "loss in frequency convrsion"
+
+msgid " コイル損失"
+msgstr "coil loss"
+
+msgid " トランス損失"
+msgstr "trans former loss"
+
+msgid " 電極損失"
+msgstr "electrode disspation "
+
+msgid " 配線損失"
+msgstr "Wiring loss"
+
+msgid " 制御損失"
+msgstr "Control loss"
+
+msgid " 出力表 4 Therma energy balance with　heat　excanger（電気炉)"
+msgstr "Output 4: Thermal energy balance table of electro heat TPE"
+
+msgid " 出力表 5 Therma energy balance with　heat　excanger（Combustion　furnace)"
+msgstr "Output 5: Thermal energy balance table of conbustion funace with heat exchanger"
+
+msgid " 出力表 6 Therma energy balance without heat excanger（ハイブリッド）"
+msgstr "Output 6: Thermal energy balance table of hybrid furnace excluding heat exchanger specific energy input(output)"
+
+msgid " 回収熱"
+msgstr "Recovered thermal energy"
+
+msgid " 出力表 7 Therma energy balance without heat excanger（ハイブリッド）"
+msgstr "Therma energy balance table of combustion　furnace excluding heat exchanger"
+
+msgid " サンキー図"
+msgstr "Sankey diagram"
+
+msgid "省エネルギー対策処理結果"
+msgstr "Energy saving measure summary"
+
+msgid " 株式会社○○鉱業炉"
+msgstr ""
+
+msgid " 2014年10月24日"
+msgstr "2014/Oct/24"
+
+msgid "省エネルギー対策処理(燃焼炉) 結果"
+msgstr "Result : Energy saving measure summary(conbustion TPE)"
+
+msgid " 出力表5 Therma energy balance with　heat　excanger（Combustion　furnace）"
+msgstr "Therma energy balance table of combustion furnace with heat exchanger"
+
+msgid " 排熱回収率改善（画面２で選ばれた時表示）"
+msgstr "Improvement in waste heat recovery"
+
+msgid "現状"
+msgstr "Current data"
+
+msgid "改善"
+msgstr "Target value"
+
+msgid " 改善後の排熱回収率"
+msgstr "Waste heat recovery ratio"
+
+msgid " 予熱温度"
+msgstr "Preheat temp"
+
+msgid " 炉体損失熱改善（画面２で選ばれた時表示）"
+msgstr "Improvement in waste heat recovery"
+
+msgid " 冷却損失"
+msgstr "Cooling water"
+
+msgid " ジグ・トレー改善"
+msgstr "Improvement in Jigs,Trays"
+
+msgid " ジグ重量"
+msgstr "Mass of jigs"
+
+msgid " ジグ入口温度"
+msgstr "Jig temp. at inlet"
+
+msgid " ジグ出口温度"
+msgstr "Jig temp. at outlet"
+
+msgid " 材料予熱改善"
+msgstr "Inpovement in preheating effect of product"
+
+msgid " 入口温度"
+msgstr "Inlet temp."
+
+msgid " 出口温度"
+msgstr "Outlet temp."
+
+msgid " 材料必要熱量"
+msgstr "Required heat for the product"
+
+msgid " 空気比改善"
+msgstr "Inprovement in Air/Fuel ratio"
+
+msgid " 空気比"
+msgstr "Air/Fuel ratio"
+
+msgid " 改善検討まとめ"
+msgstr ""
+
+msgid "排熱回収率の改善検討"
+msgstr "Waste heat recovery"
+
+msgid "炉体損失熱の改善検討"
+msgstr "Disspation from TPE structure"
+
+msgid "ジグ、トレー必要熱の改善"
+msgstr "Required heat for jigsor trays"
+
+msgid "材料予熱効果の検討"
+msgstr "Pre heating effect of products"
+
+msgid "空気比の改善検討実行"
+msgstr "Air/fuel ratio"
+
+msgid "結果一覧"
+msgstr "Result list"
+
+msgid "作成日時"
+msgstr "Modified date/time"
+
+msgid "ユーザ名"
+msgstr "User name"
+
+msgid "TPE名称"
+msgstr "TPE name"
+
+msgid "PDF"
+msgstr ""
+
+msgid "省エネ"
+msgstr "Energy saving"
+
+msgid "詳細"
+msgstr "Detail"
+
+msgid "PDFファイルをダウンロードします"
+msgstr "Download PDF"
+
+msgid "ご利用ありがとうございました。"
+msgstr "Thank you"
+
+msgid "メニューに戻る"
+msgstr "Back to menu"
+
+msgid "出力"
+msgstr "Output"
+
+msgid "出力表1:代表的入力条件の表示出力"
+msgstr "Output: TPE summery"
+
+msgid "炉の種類"
+msgstr "Furnace category"
+
+msgid "炉名"
+msgstr "Furnace name"
+
+msgid "型式"
+msgstr "Model"
+
+msgid "加熱量"
+msgstr "Nominal capacity"
+
+msgid "被熱物入口温度"
+msgstr "Temp. of product at inlet"
+
+msgid "被熱物出口温度"
+msgstr "Temp. of product at outlet"
+
+msgid "酸化減量"
+msgstr "Loss of mass by oxidization"
+
+msgid "燃料名称"
+msgstr "Fuel"
+
+msgid "発熱量"
+msgstr "Calorific value"
+
+msgid "燃料流量"
+msgstr "Fuel consumption"
+
+msgid "空気流量"
+msgstr "Volume of combustion air"
+
+msgid "リジェネの有無"
+msgstr "Usage of regenerative burners"
+
+msgid "炉入口空気温度"
+msgstr "Temp. of combustion air at boundary"
+
+msgid "炉出口排ガス温度"
+msgstr "Temp. of exhaust gas (at outlet of hearring chamber)"
+
+msgid "排ガス酸素濃度"
+msgstr "Oxygen content in exhaust gas"
+
+msgid "次へ"
+msgstr "Next"
+
+msgid "戻る"
+msgstr "Back"
+
+msgid "出力表２:総合効率シート"
+msgstr "Output2: Overall energy balance table"
+
+msgid "出力値（kJ/t）"
+msgstr "Specific energy input(kJ/t)"
+
+msgid "燃料入熱"
+msgstr "Fuel(calorific value)"
+
+msgid "付着物入熱"
+msgstr "Wastel(calorific value)"
+
+msgid "雰囲気ガス製造入熱"
+msgstr "Energy(input) for generation of atmosphere gas"
+
+msgid "燃料換算全電気使用量"
+msgstr "Fuel equivalent the energy of electricity "
+
+msgid "燃料入口顕熱"
+msgstr "Fuel (sensible heat)"
+
+msgid "空気入口顕熱"
+msgstr "Combustion air (sensible heat)"
+
+msgid "蒸気霧化材顕熱"
+msgstr "Atmization agent(sensible heat)"
+
+msgid "反応熱"
+msgstr "Heat of reaction"
+
+msgid "侵入空気顕熱"
+msgstr "Infiltration air (sensible heat)"
+
+msgid "Total energy Input"
+msgstr ""
+
+msgid "有効熱"
+msgstr "Effective energy"
+
+msgid "ジグ損失"
+msgstr "JIG(sensible heat)"
+
+msgid "酸化物顕熱損失"
+msgstr "Oxdizel substance(sensible heat)"
+
+msgid "排ガス損失"
+msgstr "Exhaust gas(sensible heat)"
+
+msgid "雰囲気ガス損失"
+msgstr "Atmosphere gas(sensible heat)"
+
+msgid "炉体放散損失"
+msgstr "Heat emission from wall surface"
+
+msgid "開口部損失"
+msgstr "Radiation from opening"
+
+msgid "部品熱伝導損失"
+msgstr "Heat flux via feed thru parts"
+
+msgid "冷却水損失"
+msgstr "Cooling water(sensible heat)"
+
+msgid "放炎損失"
+msgstr "Dischanged blowout(sensible heat)"
+
+msgid "蓄熱損失"
+msgstr "Heat strange loss(sensible heat)"
+
+msgid "その他熱損失"
+msgstr "Other heat losses"
+
+msgid "その他損失（残余項）"
+msgstr "Other losses(residual term)"
+
+msgid "ブロワー電力"
+msgstr "Blowers"
+
+msgid "コンプレッサー電力"
+msgstr "Compressors"
+
+msgid "ポンプ電力"
+msgstr "Pumps"
+
+msgid "駆動電力"
+msgstr "Drive systems"
+
+msgid "電力損失"
+msgstr "Other equipment"
+
+msgid "酸素製造電力量"
+msgstr "Generation of oxygen"
+
+msgid "雰囲気ガス製造電気入熱"
+msgstr "Generation of atmosphere gas"
+
+msgid "雰囲気ガス製造燃料入熱"
+msgstr "Generation of atmosphere gas"
+
+msgid "電気製造損失"
+msgstr "Electrical generation loss"
+
+msgid "事業所内配電損失"
+msgstr "Distribution gas within plant"
+
+msgid "Total energy output"
+msgstr ""
+
+msgid "出力表3:Electrical　balance"
+msgstr "Output3 :Electrical　balance"
+
+msgid "Electrical energy Input"
+msgstr "Electrical energy Input"
+
+msgid "電気加熱入熱"
+msgstr "Thermal energy consumption by electrical heaat source"
+
+msgid "周波数変換損失"
+msgstr "Loss in frequency convrsion"
+
+msgid "コイル損失"
+msgstr "Coil loss"
+
+msgid "トランス損失"
+msgstr "Trans former loss"
+
+msgid "電極損失"
+msgstr "Electrode disspation "
+
+msgid "配線損失"
+msgstr "Wiring loss"
+
+msgid "制御損失"
+msgstr "Control loss"
+
+msgid "その他電力"
+msgstr "Other losses(residnal term)"
+
+msgid "Electrical energy output"
+msgstr ""
+
+msgid "出力表4: Thermal energy balance（電気炉）"
+msgstr "Output4: Thermal energy balance table of electro heat TPE"
+
+msgid "Thermal energy Input"
+msgstr ""
+
+msgid "Thermal energy output"
+msgstr ""
+
+msgid "出力表5: Thermal energy balance with　heat　excanger（Combustion　furnace）"
+msgstr "Output5: Thermal energy balance table of conbustion funace with heat exchanger"
+
+msgid "Thermal energy input"
+msgstr ""
+
+msgid "その他損失"
+msgstr "Other losses(residnal term)"
+
+msgid "出力表6: Thermal energy balance without heat excanger（ハイブリッド）"
+msgstr "Output6: Thermal energy balance table of hybrid furnace excluding heat exchanger specific energy input(output)"
+
+msgid "回収熱"
+msgstr "Recovered thermal energy"
+
+msgid "出力表7: Thermal energy balance without heat excanger（Combustion　furnace）"
+msgstr "Output7: Thermal energy balance table of combustion　furnace excluding heat exchanger specific energy input(output)"
+
+msgid "サンキー図表示"
+msgstr "See sankey diagram"
+
+msgid "サンキー図（熱流図）"
+msgstr "Sankey diagram(energy flow diagram)"
+
+msgid "鋼材加熱炉"
+msgstr "Reneating furnace for steel"
+
+msgid "結果を保存"
+msgstr "Save result"
+
+msgid "省エネ対策メニューへ"
+msgstr "Energy saving measure menu"
+
+msgid "工業炉タイプ選択"
+msgstr "Furnace type"
+
+msgid "どのタイプの工業炉を選択しますか？"
+msgstr "Select furnace category and method heating."
+
+msgid "選択してOKボタンを押してください。"
+msgstr "Select then Click OK"
+
+msgid "解説"
+msgstr "Explanation"
+
+msgid "炉種類"
+msgstr "Furnace category"
+
+msgid "鋼材連続加熱"
+msgstr "Reheating furnace for steel method of heating"
+
+msgid "加熱方式"
+msgstr "Method of heating"
+
+msgid "電気加熱"
+msgstr "Electroheating"
+
+msgid "燃焼加熱"
+msgstr "Combustion"
+
+msgid "混合加熱"
+msgstr "Hybrid"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "炉種類を選択してください"
+msgstr "Select furnace category"
+
+msgid "加熱方式を選択してください"
+msgstr "Select method of heating"
+
+msgid "炉の基本デ－タ入力"
+msgstr "Basic information"
+
+msgid "入力が終了したらOKボタンを押してください。"
+msgstr "Enter values"
+
+msgid "処理形態"
+msgstr "Batch/Continuous"
+
+msgid "バッチ炉"
+msgstr "Batch"
+
+msgid "連続炉"
+msgstr "Continuous"
+
+msgid "周囲温度"
+msgstr "Ambient temp."
+
+msgid "周囲大気の相対湿度"
+msgstr "Relative humidity"
+
+msgid "バッチ炉挿入量"
+msgstr "Nominal capacity(batch)"
+
+msgid "加熱時間"
+msgstr "Duration of heat processing"
+
+msgid "TPE名称に文字を入力してください"
+msgstr "TPE name."
+
+msgid "型式に文字を入力してください"
+msgstr "Model."
+
+msgid "処理形態を選択してください"
+msgstr "Batch/Combustion."
+
+msgid "周囲温度に数値を入力してください"
+msgstr "Enter numeric value in Ambient temp."
+
+msgid "周囲大気の相対湿度に数値を入力してください"
+msgstr "Enter numeric value in Relative humidity"
+
+msgid "周囲大気の相対湿度に0.0より大きく入力してください"
+msgstr "Relative humidity must be more than 0.0 value."
+
+msgid "加熱量に数値を入力してください"
+msgstr "Enter numeric value in Norminal capacity."
+
+msgid "加熱量に0.0より大きく入力してください"
+msgstr "Norminal capacity must be more than 0.0 value."
+
+msgid "バッチ炉挿入量に数値を入力してください"
+msgstr "Enter numeric value in Nominal capacity(batch)."
+
+msgid "バッチ炉挿入量に0.0より大きく入力してください"
+msgstr "Nominal capacity (batch)  must be more than 0.0 value."
+
+msgid "加熱時間に数値を入力してください"
+msgstr "Enter numeric value in Nominal capacity(batch) ."
+
+msgid "加熱時間に0.0より大きく入力してください"
+msgstr "Nominal capacity (batch)  must be more than 0.0 value."
+
+msgid "ヒートバランス表選択"
+msgstr "Boundary Selection"
+
+msgid "選択してOKボタンを押してください（複数選択可能です）。"
+msgstr "Select and click [OK] button. (multiple selection allowed)"
+
+msgid "総合効率評価"
+msgstr "Total energy efficiency(primary energy evaluation)"
+
+msgid "熱交換器を含む加熱室"
+msgstr "Heating chamber with heat recovery equipment"
+
+msgid "電気エネルギー評価"
+msgstr ""
+
+msgid "一つ項目以上を選択してください"
+msgstr "Please select at least one value."
+
+msgid "燃焼関連処理タイプ選択"
+msgstr "Energy Source of combustion"
+
+msgid "主燃料"
+msgstr "Main fuel: check when combustion heating is source of energy and enter its fuel species."
+
+msgid "主燃料の名称"
+msgstr "Species of main fuel"
+
+msgid "可燃性付着物"
+msgstr "Combustible waste: check when combustible waste is provided to the thermal process(e.g. scrap melting furnace)."
+
+msgid "雰囲気ガス製造"
+msgstr "Special atmosphere gas generation: check when fossil fuel is useed for generation of special atmosphere gases."
+
+msgid "主燃料の名称を選択してください"
+msgstr "Please select Species of main fuel"
+
+msgid "燃焼関連のデ－タ入力"
+msgstr "Combustion data"
+
+msgid "リジェネバーナの使用有無"
+msgstr "Regenerative burner used?"
+
+msgid "有り"
+msgstr "YES"
+
+msgid "無し"
+msgstr "NO"
+
+msgid "排ガスのリジェネバーナ不通過比率"
+msgstr "Ratio of exhaust gas discharging thru auxiliary flue"
+
+msgid "燃料相対湿度"
+msgstr "Relative humidity of fuel"
+
+msgid "空気相対湿度"
+msgstr "Relative humidity of air"
+
+msgid "燃焼用空気空気中の酸素濃度（dry)"
+msgstr "Volume fraction of oxygen in dry combustion air"
+
+msgid "燃料予熱前温度"
+msgstr "Temp. of fuel (non-preheated)"
+
+msgid "燃焼用空気予熱前温度"
+msgstr "Temp. of combustion air (non-preheated)"
+
+msgid "燃料予熱後温度"
+msgstr "Temp. of preheated fuel"
+
+msgid "燃焼用空気予熱後温度"
+msgstr "Temp. of preheated combustion air"
+
+msgid "エスケープ温度"
+msgstr "Temp. of exhaust gas thru auxiliary flue"
+
+msgid "加熱室出口排ガス温度"
+msgstr "Temp. of exhaust gas at heating chamber outlet"
+
+msgid "排熱回収装置入口排ガス温度"
+msgstr "Temp. of exhaust gas at heat recovery equipment inlet"
+
+msgid "排熱回収装置出口排ガス温度"
+msgstr "Temp. of exhaust gas at heat recovery equipment outlet"
+
+msgid "測定燃焼用空気量"
+msgstr "Measured combustion air volume"
+
+msgid "排ガス中の酸素濃度（dry）解説"
+msgstr "Volume fraction of oxygen in dry exhaust gas"
+
+msgid "リジェネバーナの使用有無を選択してください"
+msgstr "Please select use of regenerative burner."
+
+msgid "排ガスのリジェネバーナ不通過比率に数値を入力してください"
+msgstr "Enter numeric value in Ratio of exhaust gas discharging thru auxiliary flue."
+
+msgid "排ガスのリジェネバーナ不通過比率に0.0より大きく入力してください"
+msgstr "Ratio of exhaust gas discharging thru auxiliary flue must be more than 0.0."
+
+msgid "燃料相対湿度に数値を入力してください"
+msgstr "Enter numeric value in Relative humidity of gaseous fuel."
+
+msgid "燃料相対湿度に0.0より大きく入力してください"
+msgstr "Relative humidity of gaseous fuel must be more than 0.0."
+
+msgid "空気相対湿度に数値を入力してください"
+msgstr "Enter numeric value in Relative humidity of air."
+
+msgid "空気相対湿度に0.0より入力してください"
+msgstr "Relative humidity of air must be more than 0.0."
+
+msgid "燃焼用空気空気中の酸素濃度（dry）に数値を入力してください"
+msgstr "Enter numeric value in Volume fraction of oxygen contained in dry exhaust gas."
+
+msgid "燃焼用空気空気中の酸素濃度（dry）に0.0より大きく入力してください"
+msgstr "Volume fraction of oxygen contained in dry exhaust gas must be more than 0.0"
+
+msgid "燃料予熱前温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of preheated fuel."
+
+msgid "燃焼用空気予熱前温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of preheated fuel."
+
+msgid "燃料予熱後温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of preheated fuel."
+
+msgid "燃焼用空気予熱後温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of preheated combustion air."
+
+msgid "エスケープ温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of exhaust gas thru auxiliary flue."
+
+msgid "加熱室出口排ガス温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of exhaust gas at heating chamber outlet."
+
+msgid "排熱回収装置入口排ガス温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of exhaust gas at heat recovery equipment inlet."
+
+msgid "排熱回収装置出口排ガス温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of exhaust gas at heat recovery equipment outlet."
+
+msgid "測定燃焼用空気量に数値を入力してください"
+msgstr "Enter numeric value in Measured combustion air volume."
+
+msgid "測定燃焼用空気量に0.0より大きく入力してください"
+msgstr "Measured combustion air volume must be more than 0.0."
+
+msgid "排ガス中の酸素濃度（dry）解説に数値を入力してください"
+msgstr "Enter numeric value in Volume fraction of oxygen in dry exhaust gas."
+
+msgid "排ガス中の酸素濃度（dry）解説に0.0より大きく入力してください"
+msgstr "Volume fraction of oxygen in dry exhaust gas must be more than 0.0."
+
+msgid "燃料設定"
+msgstr "Fuel Property"
+
+msgid "燃料関連指定方法選択"
+msgstr "Use system data base<br> of fuel property?"
+
+msgid "規定値選択"
+msgstr "YES"
+
+msgid "ユーザー入力"
+msgstr "Manual input"
+
+msgid "燃料種類の選択"
+msgstr "Fuel type?"
+
+msgid "気体燃料"
+msgstr "Gaseous fuel"
+
+msgid "液体燃料"
+msgstr "Liquid fuel"
+
+msgid "気体燃料使用量"
+msgstr "Fuel consumption"
+
+msgid "液体燃料使用量"
+msgstr "Fuel consumption"
+
+msgid "燃料関連指定方法を選択してください"
+msgstr "Select Use system data base of fuel property"
+
+msgid "燃料種類を選択してください"
+msgstr "Select fuel type."
+
+msgid "気体燃料使用量に数値を入力してください"
+msgstr "Enter numeric value in Fuel consumption(Gaseous fuel)."
+
+msgid "気体燃料使用量に0.0より大きく入力してください"
+msgstr "Fuel consumption(Gaseous fuel) must be 0.0 value."
+
+msgid "液体燃料使用量に数値を入力してください"
+msgstr "Enter numeric value in Fuel consumption(Liquid fuel)."
+
+msgid "液体燃料使用量に0.0より大きく入力してください"
+msgstr "Fuel consumption(Liquid fuel) must be 0.0 value."
+
+msgid "既定燃料選択"
+msgstr "Fuel species"
+
+msgid "燃料をひとつだけ選択してください。<br>選択が終了したらOKボタンを押してください。"
+msgstr "Choose one from the list then click OK."
+
+msgid "選択"
+msgstr "Select"
+
+msgid "使用燃料 (使用燃料名)"
+msgstr "Fuel species"
+
+msgid "HL値 (低位発熱量)"
+msgstr "Net calorific value"
+
+msgid "A0値 (理論空気量)"
+msgstr "Theoritical volume of combustion air"
+
+msgid "G0値 (理論湿り<br>排ガス量)"
+msgstr "Theoritical volume of exhaust gas"
+
+msgid "GOD値 (理論乾き<br>排ガス量)"
+msgstr "Theoritical volume of dry exhaust gas"
+
+msgid "燃料をひとつのみ選択してください"
+msgstr "Choose one from the list."
+
+msgid "燃料データ入力"
+msgstr "Fuel property (manual input)"
+
+msgid "気体燃料か液体燃料か選んでください。<br>入力が終了したらOKボタンを押してください。"
+msgstr "Select gaseous fuel or liquid fuel then click OK."
+
+msgid "ラジオボタンを選択すると入力項目が表示されます。"
+msgstr "Click radio button, then input field show"
+
+msgid "ガス組成"
+msgstr "Volume fraction"
+
+msgid "水素"
+msgstr "hydrogen"
+
+msgid "一酸化炭素"
+msgstr "carbon monoxide"
+
+msgid "メタン"
+msgstr "methane"
+
+msgid "エタン"
+msgstr "ethane"
+
+msgid "プロパン"
+msgstr "propane"
+
+msgid "ノーマル-ブタン"
+msgstr "n-butane"
+
+msgid "イソ-ブタン"
+msgstr "i-butane"
+
+msgid "エチレン"
+msgstr "ethylene"
+
+msgid "プロピレン"
+msgstr "propylene"
+
+msgid "1-ブテン"
+msgstr "1-butene"
+
+msgid "シス-2-ブテン"
+msgstr "cis-2-butene"
+
+msgid "トランス-2-ブテン"
+msgstr "trans-2-butene"
+
+msgid "アセチレン"
+msgstr "acetylene"
+
+msgid "酸素"
+msgstr "Oxygen"
+
+msgid "空気（ドライ）"
+msgstr "dry air"
+
+msgid "窒素"
+msgstr "nitrogen"
+
+msgid "二酸化炭素"
+msgstr "carbon dioxide"
+
+msgid "元素分析値組成（ドライベース）<br>H+C+O+S=100%としてください。"
+msgstr "composition by elemental analysis(dry base)<br>Input data that summation of the 4 data adds up to 100%."
+
+msgid "元素分析値組成(1)：H"
+msgstr "H"
+
+msgid "元素分析値組成(2)：C"
+msgstr "C"
+
+msgid "元素分析値組成(3)：O"
+msgstr "O"
+
+msgid "元素分析値組成(4)：S"
+msgstr "S"
+
+msgid "水分量入力"
+msgstr "Water content"
+
+msgid "高位発熱量"
+msgstr "Gross calorific value"
+
+msgid "水蒸気噴霧の有無"
+msgstr "Atomization by steam flow?"
+
+msgid "ガス組成に数値を入力してください"
+msgstr "Enter numeric value in Volume fraction."
+
+msgid "ガス組成に0.0より大きく入力してください"
+msgstr "Volume fraction must be more than 0.0 value."
+
+msgid "元素分析値組成(1)：Hに数値を入力してください"
+msgstr "Enter numeric value in composition by elemental analysis(dry base) :H."
+
+msgid "元素分析値組成(1)：Hに0.0より大きく入力してください"
+msgstr "composition by elemental analysis(dry base) :H  must be more than 0.0."
+
+msgid "元素分析値組成(2)：Cに数値を入力してください"
+msgstr "Enter numeric value in composition by elemental analysis(dry base) :C."
+
+msgid "元素分析値組成(2)：Cに0.0より大きく入力してください"
+msgstr "composition by elemental analysis(dry base) :C  must be more than 0.0."
+
+msgid "元素分析値組成(3)：O に数値をを入力してください"
+msgstr "composition by elemental analysis(dry base) :O."
+
+msgid "元素分析値組成(3)：Oに0.0より大きく入力してください"
+msgstr "composition by elemental analysis(dry base) :O  must be more than 0.0."
+
+msgid "元素分析値組成(4)：Sに数値を入力してください"
+msgstr "Enter numeric value in composition by elemental analysis(dry base) :S."
+
+msgid "元素分析値組成(4)：Sに0.0より大きく入力してください"
+msgstr "composition by elemental analysis(dry base) :S must be more than 0.0."
+
+msgid "元素分析値組成（ドライベース）\\nH+C+O+S=100%としてください。"
+msgstr "composition by elemental analysis(dry base) \\n 4 data adds up to 100%."
+
+msgid "水分量入力に数値を入力してください"
+msgstr "Enter numeric value in Water content."
+
+msgid "水分量入力に0.0より大きく入力してください"
+msgstr "Water content must be more than 0.0."
+
+msgid "高位発熱量に数値を入力してください"
+msgstr "Enter numeric value in Gross calorific value."
+
+msgid "高位発熱量に0.0より大きく入力してください"
+msgstr "Gross calorific value must be more than 0.0 ."
+
+msgid "水蒸気噴霧の有無を選択してください"
+msgstr "Atmization by ateam"
+
+msgid "可燃性付着物データ入力"
+msgstr "Fuel property of combustioble waste."
+
+msgid "入力が終了したらOKボタンを押してください"
+msgstr "Input value then click OK"
+
+msgid "可燃性付着物の量"
+msgstr "Mass of combustibule waste"
+
+msgid "使用燃料名"
+msgstr "Fuel species"
+
+msgid "可燃物種類_HL (低位発熱量)"
+msgstr "Species of flammable waste net calorific value"
+
+msgid "可燃物種類_A0 (理論空気量"
+msgstr "Theoritical volume of combustion air"
+
+msgid "可燃物種類_G0 (理論湿り<br>排ガス量)"
+msgstr "Theoritical volume of exhaust gas"
+
+msgid "可燃物種類_G0D (理論乾き<br>排ガス量)"
+msgstr "Theoritical volume of dry exhaust gas"
+
+msgid "可燃性付着物の量に数値を入力してください"
+msgstr "Enter numeric value in Mass of combustibule waste."
+
+msgid "可燃性付着物の量に0.0より大きく入力してください"
+msgstr "mass of combustibule waste must be more than 0.0"
+
+msgid "雰囲気ガス製造用燃料入力"
+msgstr "Consumption of fuel gas for generation of atmospheric gas"
+
+msgid "雰囲気ガス製造用燃料使用量"
+msgstr "consumption of fuel gas for generation of atmospheric gas"
+
+msgid "（気体燃料）"
+msgstr "(gaseous fuel)"
+
+msgid "（液体燃料）"
+msgstr "(liquid fuel)"
+
+msgid "名称"
+msgstr "Name"
+
+msgid "雰囲気ガス製造用燃料_HL (低位発熱量)"
+msgstr "Species of fuel:net calorific value"
+
+msgid "雰囲気ガス製造用燃料_A0 (理論空気量)"
+msgstr "Theoritical volume of combustion air"
+
+msgid "雰囲気ガス製造用燃料_G0 (理論湿り<br>排ガス量)"
+msgstr "Theoritical volume of exhaust gas"
+
+msgid "雰囲気ガス製造用燃料_G0D (理論乾き<br>排ガス量)"
+msgstr "Theoritical volume of dry exhaust gas"
+
+msgid "雰囲気ガス製造用燃料使用量に数値を入力してください"
+msgstr "Enter numeric value in Consumption of fuel gas for generation of atmospheric gas."
+
+msgid "雰囲気ガス製造用燃料使用量に0.0より大きく入力してください"
+msgstr "consumption of fuel gas for generation of atmospheric gas must be more than 0.0"
+
+msgid "霧化材エンタルピ計算用入力"
+msgstr "Enthalpy of Atmization agent"
+
+msgid "水蒸気量"
+msgstr "Mass of steam"
+
+msgid "水蒸気温度"
+msgstr "Temp. of steam"
+
+msgid "水蒸気圧力"
+msgstr "Pressure of steam"
+
+msgid "水蒸気量に数値を入力してください"
+msgstr "Enter numeric value in Mass of steam."
+
+msgid "水蒸気量に0.0より大きく入力してください"
+msgstr "Mass of steam must be more than 0.0"
+
+msgid "水蒸気温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of steam."
+
+msgid "水蒸気圧力に数値を入力してください"
+msgstr "Enter numeric value in Pressure of steam."
+
+msgid "水蒸気圧力に0.0より大きく入力してください"
+msgstr "Pressure of steam must be more than 0.0"
+
+msgid "雰囲気ガス損失データ入力"
+msgstr "Loss by calorific value of special atmosphere gas"
+
+msgid "雰囲気ガス入口温度"
+msgstr "Temp. of atmosphere gas at inlet."
+
+msgid "雰囲気ガス出口温度"
+msgstr "Temp. of atm. gas at outlet."
+
+msgid "雰囲気ガス量"
+msgstr "Volume of atm. gas"
+
+msgid "雰囲気ガスを選定してください"
+msgstr "Species of atm. gas."
+
+msgid "CO2"
+msgstr ""
+
+msgid "CO"
+msgstr ""
+
+msgid "H2"
+msgstr ""
+
+msgid "CH4"
+msgstr ""
+
+msgid "N2"
+msgstr ""
+
+msgid "雰囲気ガス入口温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of atmosphere gas at inlet."
+
+msgid "雰囲気ガス出口温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of atmosphere gas at outlet."
+
+msgid "雰囲気ガス量に数値を入力してください"
+msgstr "Enter numeric value in Volume of atmosphere gas."
+
+msgid "雰囲気ガス量に0.0より大きく入力してください"
+msgstr "Volume of atm. gas must be more than 0.0."
+
+msgid "雰囲気ガスを選定してください"
+msgstr "Please select atmosphere gas."
+
+msgid "JIG、台車、トレー等の計算実行選択"
+msgstr "JIF,Carrage,Tray"
+
+msgid "被熱物関連のデータ入力をします。<br>データ入力を開始しますか？"
+msgstr "Property of fuel product<br>"
+
+msgid "JIG等の計算実行"
+msgstr "Perform calculation of JIGs, carrage and trays?"
+
+msgid "実行"
+msgstr "YES"
+
+msgid "スキップ"
+msgstr "SKIP"
+
+msgid "JIG等の計算実行を選択してください"
+msgstr "Perform calculation of JIGs, carrage and trays.."
+
+msgid "被加熱物関連データ入力"
+msgstr "Property of fuel product"
+
+msgid "被熱物挿入温度"
+msgstr "Temp. of product at inlet."
+
+msgid "被熱物抽出温度"
+msgstr "Temp. of product at outlet."
+
+msgid "被加熱物質を選定してください"
+msgstr "Please select material."
+
+msgid "物質名"
+msgstr "Material"
+
+msgid "比重量"
+msgstr "Substance density"
+
+msgid "平均比熱"
+msgstr "Mean specific heat"
+
+msgid "熱伝導率"
+msgstr "Heat conductivity"
+
+msgid "溶解熱"
+msgstr "Latent heat of fucion"
+
+msgid "融点"
+msgstr "Melting point"
+
+msgid "酸化減量に数値を入力してください"
+msgstr "Enter numeric value in loss of mass by oxidization.."
+
+msgid "酸化減量に0.0より大きく入力してください"
+msgstr "Loss of mass by oxidization must be more than 0.0"
+
+msgid "被熱物挿入温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of product at inlet."
+
+msgid "被熱物抽出温度に数値を入力してください"
+msgstr "Temp. of product at inlet must be more than 0.0"
+
+msgid "鉄：酸化熱データ入力"
+msgstr "Iron heat oxydization"
+
+msgid "デフォルト値を変更する場合は打ち変えてください。<br>入力が終了したらOKボタンを押してください"
+msgstr "Current data show default value."
+
+msgid "酸化鉄中の鉄の含有比率"
+msgstr "Mass fraction of iron contained in scale."
+
+msgid "酸化鉄生成熱"
+msgstr "Heat of reaction by oxidization of iron."
+
+msgid "酸化鉄中の鉄の含有比率に数値を入力してください"
+msgstr "Enter numeric value in Mass fraction of iron contained in scale."
+
+msgid "酸化鉄中の鉄の含有比率に0.0より大きく入力してください"
+msgstr "Mass fraction of iron contained in scale must be more than 0.0."
+
+msgid "酸化鉄生成熱に数値を入力してください"
+msgstr "Enter numeric value in Heat of reaction by oxidization of iron."
+
+msgid "酸化鉄生成熱に0.0より大きく入力してください"
+msgstr "Heat of reaction by oxidization of iron must be more than 0.0"
+
+msgid "アルミ：酸化熱データ入力"
+msgstr "Alminium heat of oxidization"
+
+msgid "酸化アルミ生成熱"
+msgstr "Heat of reaction by axidization of alminium."
+
+msgid "酸化アルミ生成熱に数値を入力してください"
+msgstr "Enter numeric value in Heat of reaction by axidization of alminium."
+
+msgid "酸化アルミ生成熱に0.0より大きく入力してください"
+msgstr "Heat of reaction by axidization of alminium must be more than 0.0"
+
+msgid "JIGデータ入力"
+msgstr "JIG property"
+
+msgid "JIG材料"
+msgstr "JIG material"
+
+msgid "ジグ等挿入重量"
+msgstr "Weight"
+
+msgid "JIG等挿入温度"
+msgstr "Temp. at inlet"
+
+msgid "JIG等抽出温度"
+msgstr "Temp. at outlet"
+
+msgid "JIG材料 1 に数値を入力してください"
+msgstr "Enter numeric value in JIG material 1."
+
+msgid "JIG材料 1 に0.0より大きく入力してください"
+msgstr "JIG material 1 must be more than 0.0."
+
+msgid "ジグ等挿入重量 1 に数値を入力してください"
+msgstr "Enter numeric value in Weight 1."
+
+msgid "ジグ等挿入重量 1 に0.0より大きく入力してください"
+msgstr "Weight 1 must be more than 0.0."
+
+msgid "JIG等挿入温度 1に数値を入力してください"
+msgstr "Enter numeric value in Temp. at inlet 1."
+
+msgid "JIG等抽出温度 1 に数値を入力してください"
+msgstr "Enter numeric value in Temp. at outlet 1."
+
+msgid "JIG材料 2 に数値を入力してください"
+msgstr "Enter numeric value in JIG material 2."
+
+msgid "JIG材料 2 に0.0より大きく入力してください"
+msgstr "JIG material 2 must be more than 0.0."
+
+msgid "ジグ等挿入重量 2 に数値を入力してください"
+msgstr "Enter numeric value in Weight 2."
+
+msgid "ジグ等挿入重量 2 に0.0より大きく入力してください"
+msgstr "Weight 2 must be more than 0.0."
+
+msgid "JIG等挿入温度 2 に数値を入力してください"
+msgstr "Enter numeric value in Temp. at inlet 2."
+
+msgid "JIG等抽出温度 2 に数値を入力してください"
+msgstr "Enter numeric value in Temp. at outlet 2."
+
+msgid "JIG材料 3 に数値を入力してください"
+msgstr "Enter numeric value in JIG material 3."
+
+msgid "JIG材料 3 に0.0より大きく入力してください"
+msgstr "JIG material 3 must be more than 0.0."
+
+msgid "ジグ等挿入重量 3 に数値を入力してください"
+msgstr "Enter numeric value in Weight 3."
+
+msgid "ジグ等挿入重量 3 に0.0より大きく入力してください"
+msgstr "Weight 3 must be more than 0.0."
+
+msgid "JIG等挿入温度 3 に数値を入力してください"
+msgstr "Enter numeric value in Temp. at inlet 3."
+
+msgid "JIG等抽出温度 3 に数値を入力してください"
+msgstr "Enter numeric value in Temp. at outlet 3."
+
+msgid "JIG被加熱物選択"
+msgstr "JIG: Material data base"
+
+msgid "選択したらOKボタンを押してください。"
+msgstr "Enter values."
+
+msgid "キャンセル"
+msgstr "Cancel"
+
+msgid "JIG被加熱物を選択してください"
+msgstr "Please select material of JIG."
+
+msgid "例外エラーを発生してしまいました"
+msgstr "Unexpected error is occured."
+
+msgid "炉体損失実行選択"
+msgstr "Dissipation from TPE structure."
+
+msgid "炉体の損失熱関連の処理を実行しますか？"
+msgstr "Perform calculation of disspation from TPE structure."
+
+msgid "炉体の損失熱関連の処理を実行しますか？ "
+msgstr "Perform calculation of disspation from TPE structure."
+
+msgid "炉体の損失熱のデ－タ入力"
+msgstr "Disspation from TPE structure"
+
+msgid "に実測値を入力してください。"
+msgstr "Input data or  "
+
+msgid "をクリックすると、理論計算用入力ページが表示されます。<br>入力が終了したらOKボタンを押してください。"
+msgstr "open, dedicated calculators by clicking [CAL]."
+
+msgid "炉体放散<br>損失"
+msgstr "Heat emission from wall surface"
+
+msgid "開口部<br>損失"
+msgstr "Radiation from opening"
+
+msgid "冷却水<br>損失"
+msgstr "Cooling water loss"
+
+msgid "蓄熱<br>損失"
+msgstr "Heat storage loss"
+
+msgid "放炎<br>損失"
+msgstr "Heat loss by discharged blowout"
+
+msgid "金属部品<br>からの<br>伝導損失"
+msgstr "Heat flux via feed thru parts"
+
+msgid "計算"
+msgstr "CAL"
+
+msgid "炉体放散損失に数値を入力してください"
+msgstr "Enter numeric value in Heat emission from wall surface."
+
+msgid "開口部損失に数値を入力してください"
+msgstr "Enter numeric value in Radiation from opening."
+
+msgid "冷却水損失に数値を入力してください"
+msgstr "Enter numeric value in Cooling water loss."
+
+msgid "蓄熱損失に数値を入力してください"
+msgstr "Enter numeric value in Heat storage loss."
+
+msgid "放炎損失に数値を入力してください"
+msgstr "Enter numeric value in Heat loss by discharged blowout."
+
+msgid "金属部品からの伝導損失に数値を入力してください"
+msgstr "Enter numeric value in Heat flux via feed thru parts."
+
+msgid "その他損失に数値を入力してください"
+msgstr "Enter numeric value in Other losses."
+
+msgid "その他損失に0.0より入力してください"
+msgstr "Other losses must be more than 0.0."
+
+msgid "炉体放散損失計算入力"
+msgstr "Calculation heat emission from wall surface."
+
+msgid "必要データを入力してください"
+msgstr "Input values"
+
+msgid "壁面の方向"
+msgstr "Wall orientation"
+
+msgid "上向き"
+msgstr "Top surface"
+
+msgid "下向き"
+msgstr "Under surface"
+
+msgid "横向き"
+msgstr "Side surface"
+
+msgid "炉壁放射率"
+msgstr "Emissivity"
+
+msgid "炉外壁表面温度"
+msgstr "Temp. of surface"
+
+msgid "外気温度"
+msgstr "Ambient temp."
+
+msgid "炉壁損失評価対象面積（炉壁・煙道）"
+msgstr "Surface area(furnace wall, blue)"
+
+msgid "補正係数"
+msgstr "Correction coefficient"
+
+msgid "壁面の方向を選択してください"
+msgstr "Select Wall orientation"
+
+msgid "炉壁放射率に数値を入力してください"
+msgstr "Enter numeric value in Emissivity."
+
+msgid "炉外壁表面温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of surface."
+
+msgid "外気温度に数値を入力してください"
+msgstr "Enter numeric value in Ambient temp."
+
+msgid "炉壁損失評価対象面積（炉壁・煙道）に数値を入力してください"
+msgstr "Enter numeric value in Surface area(furnace wall, blue)."
+
+msgid "炉壁損失評価対象面積（炉壁・煙道）に0.0より大きく入力してください"
+msgstr "Surface area(furnace wall, blue) must be more than 0.0."
+
+msgid "補正係数に数値を入力してください"
+msgstr "Enter numeric value in Correction coefficient."
+
+msgid "補正係数に0.0より大きく入力してください"
+msgstr "Correction coefficient must be more than 0.0."
+
+msgid "開口部損失計算入力"
+msgstr "Calculation cadiation from openings"
+
+msgid "必要データを入力してください。<br>入力が終了したらOKボタンを押してください"
+msgstr "Please input values."
+
+msgid "開口部形状選択"
+msgstr "Shape of opening"
+
+msgid "円"
+msgstr "Circle"
+
+msgid "正方形"
+msgstr "Square"
+
+msgid "2:1長方形"
+msgstr "Rectangular(2:1)"
+
+msgid "スリット"
+msgstr "Slit"
+
+msgid "壁厚"
+msgstr "Wall thickness"
+
+msgid "直径または最少幅"
+msgstr "Diameter or min. width"
+
+msgid "開口部面積"
+msgstr "Area of opening"
+
+msgid "炉内温度"
+msgstr "Furnace temp."
+
+msgid "開口部形状を選択してください"
+msgstr "Select Shape of opening."
+
+msgid "壁厚に数値を入力してください"
+msgstr "Enter numeric value in Wall thickness."
+
+msgid "壁厚に0.0より大きく入力してください"
+msgstr "Wall thickness value must be more than 0.0."
+
+msgid "直径または最少幅に数値を入力してください"
+msgstr "Enter numeric value in Diameter or min. width."
+
+msgid "直径または最少幅に0.0より大きく入力してください"
+msgstr "Diameter or min. width value must be more than 0.0."
+
+msgid "開口部面積に数値を入力してください"
+msgstr "Enter numeric value in Area of opening."
+
+msgid "開口部面積に0.0より大きく入力してください"
+msgstr "Area of opening value must be more than 0.0."
+
+msgid "炉内温度に数値を入力してください"
+msgstr "Enter numeric value in Furnace temp."
+
+msgid "冷却水損失計算入力"
+msgstr "Calculation cooling water loss."
+
+msgid "必要データを入力してください。<br>入力が終了したらOKボタンを押してください。"
+msgstr "Please input values."
+
+msgid "冷却水量"
+msgstr "Amount of cooling water"
+
+msgid "冷却水出口温度"
+msgstr "Water temp. at outlet"
+
+msgid "冷却水入口温度"
+msgstr "Water temp. at inlet"
+
+msgid "冷却水量に数値を入力してください"
+msgstr "Enter numeric value in Amount of cooling water."
+
+msgid "冷却水量に0.0より大きく入力してください"
+msgstr "Amount of cooling water value must be more than 0.0."
+
+msgid "冷却水出口温度に数値を入力してください"
+msgstr "Enter numeric value in Water temp. at outlet."
+
+msgid "冷却水入口温度に数値を入力してください"
+msgstr "Enter numeric value in Water temp. at inlet."
+
+msgid "蓄熱損失の計算データ"
+msgstr "Calculation heat storage loss"
+
+msgid "外表面温度"
+msgstr "Temp. of outer wall"
+
+msgid "炉体表面積"
+msgstr "Wall surface area"
+
+msgid "炉内第1層材質"
+msgstr "Refractory layer 1"
+
+msgid "第1層厚み"
+msgstr "Thickness of layer 1"
+
+msgid "炉内第2層材質"
+msgstr "Refractory layer 2"
+
+msgid "第2層厚み"
+msgstr "Thickness of layer 2"
+
+msgid "炉内第3層材質"
+msgstr "Refractory layer 3"
+
+msgid "第3層厚み"
+msgstr "Thickness of layer 3"
+
+msgstr "炉内第4層材質"
+msgstr "Refractory layer 4"
+
+msgid "第4層厚み"
+msgstr "Thickness of layer 4"
+
+msgid "外表面温度に数値を入力してください"
+msgstr "Enter numeric value in Temp. of outer wall"
+
+msgid "炉体表面積に数値を入力してください"
+msgstr "Enter numeric value in Wall surface area."
+
+msgid "炉体表面積に0.0より大きく入力してください"
+msgstr "Wall surface area must be more than 0.0."
+
+msgid "炉内第1層材質に数値を入力してください"
+msgstr "Enter numeric value in Refractory layer 1"
+
+msgid "炉内第1層材質に0.0より大きく入力してください"
+msgstr "Refractory layer 2 value must be more than 0.0."
+
+msgid "第1層厚みに数値を入力してください"
+msgstr "Enter numeric value in Thickness of layer 1"
+
+msgid "第1層厚みに0.0より大きく入力してください"
+msgstr "Thickness of layer 1 value must be more than 0.0."
+
+msgid "炉内第2層材質に数値を入力してください"
+msgstr "Enter numeric value in Refractory layer 2"
+
+msgid "炉内第2層材質に0.0より大きく入力してください"
+msgstr "Refractory layer 2 value must be more than 0.0."
+
+msgid "第2層厚みに数値を入力してください"
+msgstr "Enter numeric value in Thickness of layer 2."
+
+msgid "第2層厚みに0.0より大きく入力してください"
+msgstr "Thickness of layer 2 value must be more than 0.0."
+
+msgid "炉内第3層材質に数値を入力してください"
+msgstr "Enter numeric value in Refractory layer 3"
+
+msgid "炉内第3層材質に0.0より大きく入力してください"
+msgstr "Refractory layer 3 value must be more than 0.0."
+
+msgid "第3層厚みに数値を入力してください"
+msgstr "Enter numeric value in Thickness of layer 3."
+
+msgid "第3層厚みに0.0より大きく入力してください"
+msgstr "Thickness of layer 3 value must be more than 0.0."
+
+msgid "炉内第4層材質に数値を入力してください"
+msgstr "Enter numeric value in Refractory layer 4."
+
+msgid "炉内第4層材質に0.0より大きく入力してください"
+msgstr "Refractory layer 4 value must be more than 0.0."
+
+msgid "第4層厚みに数値を入力してください"
+msgstr "Enter numeric value in Thickness of layer 4."
+
+msgid "第4層厚みに0.0より大きく入力してください"
+msgstr "Thickness of layer 4 value must be more than 0.0."
+
+msgid "耐火物選定"
+msgstr "Refractory"
+
+msgid "耐火物名称"
+msgstr "Name of refractory"
+
+msgid "嵩比重"
+msgstr "Specific gravity"
+
+msgid "比熱"
+msgstr "Specific heat"
+
+msgid "耐火物名称を選択してください"
+msgstr "Select Name of refractory."
+
+msgid "放炎損失計算入力"
+msgstr "Calablation heat loss by dischanged"
+
+msgid "放炎温度"
+msgstr "Temperature of blowout"
+
+msgid "壁厚み"
+msgstr "Wall thickness"
+
+msgid "開口部等価直径"
+msgstr "Equivalent diameter"
+
+msgid "開口部における差圧"
+msgstr "Pressure difference at opening"
+
+msgid "放炎温度に数値を入力してください"
+msgstr "Enter numeric value in Temperature of blowout."
+
+msgid "壁厚みに数値を入力してください"
+msgstr "Enter numeric value in Wall thickness."
+
+msgid "壁厚みに0.0より大きく入力してください"
+msgstr "Wall thickness value must be more than 0.0."
+
+msgid "開口部等価直径に数値を入力してください"
+msgstr "Enter numeric value in Equivalent diameter."
+
+msgid "開口部等価直径に0.0より大きく入力してください"
+msgstr "Equivalent diameter value must be more than 0.0."
+
+msgid "開口部における差圧に数値を入力してください"
+msgstr "Enter numeric value in Pressure difference at opening."
+
+msgid "開口部における差圧に0.0より大きく入力してください"
+msgstr "Pressure difference at opening value must be moret than 0.0."
+
+msgid "金属部品伝導損失計算入力"
+msgstr "Calablation heat flux via beed thru parts."
+
+msgid "炉壁厚さ"
+msgstr "Wall thickness"
+
+msgid "当該路部品の断面積"
+msgstr "Section area of parts"
+
+msgid "同一計算条件の数"
+msgstr "Number of parts with same condition"
+
+msgid "ヶ"
+msgstr "items"
+
+msgid "部品の熱伝導率"
+msgstr "Heat conductivity"
+
+msgid "炉壁厚さに数値を入力してください"
+msgstr "Enter numeric value in Wall thickness."
+
+msgid "炉壁厚さに0.0より大きく入力してください"
+msgstr "Wall thickness value must be moret than 0.0."
+
+msgid "当該路部品の断面積に数値を入力してください"
+msgstr "Enter numeric value in Section area of parts."
+
+msgid "当該路部品の断面積に0.0より大きく入力してください"
+msgstr "Section area of parts value must be moret than 0.0."
+
+msgid "同一計算条件の数に数値を入力してください"
+msgstr "Enter numeric value in Number of parts with same condition."
+
+msgid "同一計算条件の数に0.0より大きく入力してください"
+msgstr "Number of parts with same condition value must be moret than 0.0."
+
+msgid "部品の熱伝導率に数値を入力してください"
+msgstr "Enter numeric value in Heat conductivity."
+
+msgid "部品の熱伝導率に0.0より大きく入力してください"
+msgstr "Heat conductivity value must be moret than 0.0."
+
+msgid "電気エネルギーの一次エネルギー換算データ入力"
+msgstr "Fuel equivalent energy of electricity."
+
+msgid "既定の値は発電効率です。送電効率も考慮する場合は、ユーザー指定を用いてください。<br>入力が終了したらOKボタンを押してください。"
+msgstr "The listed date are power generation efficiency.<br>
+Use [manual input] when transmission efficiency is taken into account."
+
+msgid "発電効率"
+msgstr "Electrical generation efficiency"
+
+msgid "ユーザ指定"
+msgstr "Manual input"
+
+msgid "Please select one of the 選択"
+msgstr "Please select one"
+
+msgid "ユーザ指定に数値を入力してください"
+msgstr "Enter numeric value in Manual input."
+
+msgid "ユーザ指定に0.0より大きく入力してください"
+msgstr "Manual input value must be moret than 0.0."
+
+msgid "電気エネルギー入力"
+msgstr "Electrical energy"
+
+msgid "に実測値を入力。"
+msgstr "Input data or open"
+
+msgid "を選ぶと理論計算ができます。<br>入力が終了したらOKボタンを押してください。"
+msgstr ". dedicated calculators by clicking CAL."
+
+msgid "加熱炉受電端ベースの加熱電力"
+msgstr "Electrical energy consumption at the receiving end of furnace"
+
+msgid "事業所内配電損失率"
+msgstr "Distribution loss within plant"
+
+msgid "電力を入力するか理論計算してください。"
+msgstr "Enter electrical power or open dedicated calculators by clicking CAL."
+
+msgid "駆動電力タイプ"
+msgstr "Drive system"
+
+msgid "-選択-"
+msgstr "-Select-"
+
+msgid "ローラーハース"
+msgstr "Roller hearth"
+
+msgid "回転炉床"
+msgstr "Rotary hearth"
+
+msgid "メッシュベルト"
+msgstr "Mesh belt"
+
+msgid "WB式"
+msgstr "WB"
+
+msgid "コンデンサー損失"
+msgstr "Condenser loss"
+
+msgid "加熱炉受電端ベースの加熱電力に数値を入力してください"
+msgstr "Enter numeric value in Electrical energy consumption for heating at the receiving end of furnace."
+
+msgid "加熱炉受電端ベースの加熱電力に0.0より大きく入力してください"
+msgstr " Electrical energy consumption for heating at the receiving end of furnace must be more than 0.0."
+
+msgid "事業所内配電損失率に数値を入力してください"
+msgstr "Enter numeric value in Distribution loss within plant."
+
+msgid "事業所内配電損失率に0.0より大きく入力してください"
+msgstr "Distribution loss within plant must be more than 0.0."
+
+msgid "ブロワー電力に数値を入力してください"
+msgstr "Enter numeric value in Blower power."
+
+msgid "コンプレッサー電力に数値を入力してください"
+msgstr "Enter numeric value in compressor power."
+
+msgid "ポンプ電力に数値を入力してください"
+msgstr "Enter numeric value in pump power."
+
+msgid "その他電力に数値を入力してください"
+msgstr "Enter numeric value in Other equipment"
+
+msgid "その他電力に0.0より大きく入力してください"
+msgstr "Other equipment must be more than 0.0."
+
+msgid "駆動電力タイプを選択してください"
+msgstr "Select drive system."
+
+msgid "駆動電力に数値を入力してください"
+msgstr "Enter numeric value in drive system."
+
+msgid "駆動電力に0.0より大きく入力してください"
+msgstr "Drive system value must be more than 0.0."
+
+msgid "周波数変換損失に数値を入力してください"
+msgstr "Enter numeric value in loss in frequency conversion."
+
+msgid "周波数変換損失に0.0より大きく入力してください"
+msgstr "Loss in frequency conversion value must be more than 0.0."
+
+msgid "コイル損失に数値を入力してください"
+msgstr "Enter numeric value inCoil loss."
+
+msgid "コイル損失に0.0より大きく入力してください"
+msgstr "Coil loss value must be more than 0.0."
+
+msgid "トランス損失に数値を入力してください"
+msgstr "Enter numeric value in Transformer loss"
+
+msgid "トランス損失に0.0より大きく入力してください"
+msgstr "Transformer loss  value must be more than 0.0."
+
+msgid "電極損失に数値を入力してください"
+msgstr "Enter numeric value in Electrode dissipation."
+
+msgid "電極損失に0.0より大きく入力してください"
+msgstr "Electrode dissipation value must be more than 0.0."
+
+msgid "コンデンサー損失に数値を入力してください"
+msgstr "Enter numeric value in Condenser loss."
+
+msgid "コンデンサー損失に0.0より大きく入力してください"
+msgstr "Condenser loss value must be more than 0.0."
+
+msgid "配線損失に数値を入力してください"
+msgstr "Enter numeric value in Wiring loss."
+
+msgid "配線損失に0.0より大きく入力してください"
+msgstr "Wiring loss value must be more than 0.0."
+
+msgid "制御損失に数値を入力してください"
+msgstr "Enter numeric value in Control loss."
+
+msgid "制御損失に0.0より大きく入力してください"
+msgstr "Control loss value must be more than 0.0."
+
+msgid "ブロワー計算入力"
+msgstr "Calculation: brower"
+
+msgid "入口での静圧"
+msgstr "Static pressure at inlet"
+
+msgid "流体の装置入口での流量"
+msgstr "Flow rate at inlet of furnace"
+
+msgid "裕度（ブロワー）"
+msgstr "Torelance(blower)"
+
+msgid "静圧効率"
+msgstr "Static pressure efficiency"
+
+msgid "稼働率"
+msgstr "Rate of operation"
+
+msgid "入口での静圧に数値を入力してください"
+msgstr "Enter numeric value in Static pressure at inlet"
+
+msgid "入口での静圧に0.0より大きく入力してください"
+msgstr "Static pressure at inlet value must be more than 0.0."
+
+msgid "流体の装置入口での流量に数値を入力してください"
+msgstr "Enter numeric value in Flow rate at inlet of furnace"
+
+msgid "流体の装置入口での流量に0.0より大きく入力してください"
+msgstr "Flow rate at inlet of furnace value must be more than 0.0."
+
+msgid "裕度（ブロワー）に数値を入力してください"
+msgstr "Enter numeric value in Torelance(blower)."
+
+msgid "裕度（ブロワー）に0.0より大きく入力してください"
+msgstr "Torelance（blower） value must be more than 0.0."
+
+msgid "静圧効率数値を入力してください"
+msgstr "Enter numeric value in Static pressure efficiency"
+
+msgid "静圧効率に0.0より大きく入力してください"
+msgstr "Static pressure efficiency value must be more than 0.0."
+
+msgid "稼働率に数値を入力してください"
+msgstr "Enter numeric value in Rate of operation"
+
+msgid "稼働率に0.0より大きく入力してください"
+msgstr "Rate of operation value must be more than 0.0."
+
+msgid "コンプレッサ-電力の計算"
+msgstr "Calculation: compressor power"
+
+msgid "型式指定"
+msgstr "Type"
+
+msgid "レシプロ"
+msgstr "Reciprocating"
+
+msgid "オイルレス"
+msgstr "Oil-less"
+
+msgid "潤滑"
+msgstr "Lubrication"
+
+msgid "ターボ"
+msgstr "Turbo"
+
+msgid "空気の断熱指数"
+msgstr "Adiabatic exponent of air "
+
+msgid "装置入口での絶対圧力"
+msgstr "Absolute pressure of fluid at inlet of compressor"
+
+msgid "装置出口での絶対圧力"
+msgstr "Absolute pressure of discharged fluid at outlet of compressor"
+
+msgid "圧縮機の全断熱効率"
+msgstr "Overall adiabatic efficiency of compressor"
+
+msgid "伝達効率"
+msgstr "Theoretical power of compressor"
+
+msgid "型式指定を選択してください"
+msgstr "Select Type"
+
+msgid "空気の断熱指数に数値を入力してください"
+msgstr "Enter numeric value in Adiabatic exponent of air."
+
+msgid "空気の断熱指数に0.0より大きく入力してください"
+msgstr "Adiabatic exponent of air value must be more than 0.0."
+
+msgid "装置入口での絶対圧力に数値を入力してください"
+msgstr "Enter numeric value in Absolute pressure of fluid at inlet of compressor."
+
+msgid "装置入口での絶対圧力に0.0より大きく入力してください"
+msgstr "Absolute pressure of fluid at inlet of compressor value must be more than 0.0."
+
+msgid "装置出口での絶対圧力に数値を入力してください"
+msgstr "Enter numeric value in Absolute pressure of discharged fluid at outlet of compressor."
+
+msgid "装置出口での絶対圧力に0.0より大きく入力してください"
+msgstr "Absolute pressure of discharged fluid at outlet of compressor value must be more than 0.0."
+
+msgid "圧縮機の全断熱効率に数値を入力してください"
+msgstr "Enter numeric value in Overall adiabatic efficiency of compressor."
+
+msgid "圧縮機の全断熱効率に0.0より大きく入力してください"
+msgstr "Overall adiabatic efficiency of compressor value must be more than 0.0."
+
+msgid "伝達効率に数値を入力してください"
+msgstr "Enter numeric value in Theoretical power of compressor."
+
+msgid "伝達効率に0.0より大きく入力してください"
+msgstr "Theoretical power of compressor value must be more than 0.0."
+
+msgid "稼働率に数値を入力してください"
+msgstr "Enter numeric value in Capacity utilization."
+
+msgid "稼働率に0.0より大きく入力してください"
+msgstr "Capacity utilization value must be more than 0.0."
+
+msgid "ポンプ計算入力"
+msgstr "Calculation: pump"
+
+msgid "全楊程"
+msgstr "Depth from water surface"
+
+msgid "流体密度"
+msgstr "Density of fluid "
+
+msgid "供給点で計測された流速"
+msgstr "Mean velocity of fluid measured at supplying point"
+
+msgid "裕度（ポンプ）"
+msgstr "Torelance（pump）"
+
+msgid "静圧効率（ポンプ）"
+msgstr "Static pressure efficiency(pump)."
+
+msgid "全楊程に数値を入力してください"
+msgstr "Enter numeric value in Depth from water surface."
+
+msgid "全楊程に-1.0より大きく入力してください"
+msgstr "Depth from water surface value must be more than -1.0."
+
+msgid "入口での静圧に0.0より大きく入力してください"
+msgstr "Static pressure at inlet value must be more than 0.0."
+
+msgid "流体密度に数値を入力してください"
+msgstr "Enter numeric value in Density of fluid."
+
+msgid "流体密度に0.0より大きく入力してください"
+msgstr "Density of fluid value must be more than 0.0."
+
+msgid "供給点で計測された流速に数値を入力してください"
+msgstr "Enter numeric value Mean velocity of fluid measured at supplying point."
+
+msgid "供給点で計測された流速に0.0より大きく入力してください"
+msgstr "Mean velocity of fluid measured at supplying point value must be more than 0.0."
+
+msgid "裕度（ポンプ）に数値を入力してください"
+msgstr "Enter numeric value Torelance(pump)."
+
+msgid "裕度（ポンプ）に0.0より入力してください"
+msgstr "Torelance（pump） value must be more than 0.0."
+
+msgid "静圧効率（ポンプ）に数値を入力してください"
+msgstr "Enter numeric value in Static pressure efficiency(pump)."
+
+msgid "静圧効率（ポンプ）に0.0より大きく入力してください"
+msgstr "Static pressure efficiency（pump）value must be more than 0.0."
+
+msgid "駆動動力：ローラーハース計算入力"
+msgstr "Calculation : Roller hearth drive"
+
+msgid "炉内処理物の総重量"
+msgstr "Total weight of product on the drive"
+
+msgid "炉内ジグ類の総重量"
+msgstr "Total weight of jigs on the drive"
+
+msgid "炉内ロ－ルの総重量"
+msgstr "Total weight of all rolls"
+
+msgid "ロール径"
+msgstr "Diameter of roll"
+
+msgid "ロール軸受け半径"
+msgstr "Diameter of bearing"
+
+msgid "ロール回転数"
+msgstr "Rpm of roll"
+
+msgid "処理物の移動速度"
+msgstr "Average speed of product"
+
+msgid "ロールの摩擦係数"
+msgstr "Friction coefficient of rolls"
+
+msgid "軸受け摩擦係数"
+msgstr "Friction coefficient of bearing"
+
+msgid "機械効率"
+msgstr "Mechanical efficiency"
+
+msgid "稼働時間割合"
+msgstr "Rate of operating time "
+
+msgid "起動時間割合係数"
+msgstr "Ratio of extra load on start-up"
+
+msgid "１時間あたりの<br>起動回数"
+msgstr "Number of start-up per 1 hour"
+
+msgid "炉内処理物の総重量に数値を入力してください"
+msgstr "Enter numeric value in Total weight of product on the drive."
+
+msgid "炉内処理物の総重量に0.0より大きく入力してください"
+msgstr "Total weight of product on the drive value must be more than 0.0."
+
+msgid "炉内ジグ類の総重量に数値を入力してください"
+msgstr "Enter numeric value in Total weight of jigs on the drive."
+
+msgid "炉内ジグ類の総重量に0.0より大きく入力してください"
+msgstr "Total weight of jigs on the drive value must be more than 0.0."
+
+msgid "炉内ロ－ルの総重量に数値を入力してください"
+msgstr "Enter numeric value in Total weight of all rolls."
+
+msgid "炉内ロ－ルの総重量に0.0より大きく入力してください"
+msgstr "Total weight of all rolls value must be more than 0.0."
+
+msgid "ロール径に数値を入力してください"
+msgstr "Enter numeric value in Diameter of roll."
+
+msgid "ロール径に0.0より大きく入力してください"
+msgstr "Diameter of roll value must be more than 0.0."
+
+msgid "ロール軸受け半径に数値を入力してください"
+msgstr "Enter numeric value in Radius of roll bearing."
+
+msgid "ロール軸受け半径に0.0より大きく入力してください"
+msgstr "Radius of roll bearing value must be more than 0.0."
+
+msgid "処理物の移動速度に数値を入力してください"
+msgstr "Enter numeric value in Average speed of product."
+
+msgid "処理物の移動速度に0.0より大きく入力してください"
+msgstr "Average speed of product value must be more than 0.0."
+
+msgid "ロールの摩擦係数に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of rolls."
+
+msgid "ロールの摩擦係数に0.0より大きく入力してください"
+msgstr "Friction coefficient of rolls value must be more than 0.0."
+
+msgid "軸受け摩擦係数に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of bearing."
+
+msgid "軸受け摩擦係数に0.0より大きく入力してください"
+msgstr "Friction coefficient of bearing value must be more than 0.0."
+
+msgid "機械効率に数値を入力してください"
+msgstr "Enter numeric value in Mechanical efficiency."
+
+msgid "機械効率に0.0より大きく入力してください"
+msgstr "Mechanical efficiency value must be more than 0.0."
+
+msgid "稼働時間割合に数値を入力してください"
+msgstr "Enter numeric value in Rate of operating time."
+
+msgid "稼働時間割合に0.0より大きく入力してください"
+msgstr "Rate of operating time  value must be more than 0.0."
+
+msgid "１時間あたりの起動回数に数値を入力してください"
+msgstr "Enter numeric value in Number of start-up per hour."
+
+msgid "１時間あたりの起動回数に0.0より大きく入力してください"
+msgstr "Number of start-up per hour value must be more than 0.0."
+
+msgid "駆動動力：回転炉床計算入力"
+msgstr "Calculation : rotary earth drive"
+
+msgid "台車重量"
+msgstr "Weight of carrige"
+
+msgid "車輪径"
+msgstr "Diameter of wheel"
+
+msgid "車輪軸受け半径"
+msgstr "Radius of wheel bearing"
+
+msgid "車輪摩擦係数"
+msgstr "Friction coefficient of rolls"
+
+msgid "１時間あたりの起動回数"
+msgstr "Number of start-up per 1 hour"
+
+msgid "炉内処理物の総重量に数値を入力してください"
+msgstr "Enter numeric value in Total weight of product on the drive."
+
+msgid "台車重量に数値を入力してください"
+msgstr "Enter numeric value in Weight of carrige."
+
+msgid "台車重量に0.0より大きく入力してください"
+msgstr "Weight of carrige value must be more than 0.0."
+
+msgid "車輪径に数値を入力してください"
+msgstr "Enter numeric value in Diameter of wheel."
+
+msgid "車輪径に0.0より大きく入力してください"
+msgstr "Diameter of wheel value must be more than 0.0."
+
+msgid "車輪軸受け半径に数値を入力してください"
+msgstr "Enter numeric value in Radius of wheel bearing."
+
+msgid "車輪軸受け半径に0.0より大きく入力してください"
+msgstr "Radius of wheel bearing value must be more than 0.0."
+
+msgid "車輪摩擦係数に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of rolls."
+
+msgid "車輪摩擦係数に0.0より大きく入力してください"
+msgstr "Friction coefficient of rolls value must be more than 0.0."
+
+msgid "駆動動力：メッシュベルト計算入力"
+msgstr "Calculation : mesh belt drive"
+
+msgid "処理物重量"
+msgstr "Total weight of product on the drive"
+
+msgid "ｼﾞｸﾞ重量"
+msgstr "Weight of JIG"
+
+msgid "メッシュベルト重量"
+msgstr "Weight of mesh belt"
+
+msgid "メッシュベルト幅"
+msgstr "Width of mesh belt"
+
+msgid "メッシュベルト長さ"
+msgstr "Length of mesh belt"
+
+msgid "ドラム重量"
+msgstr "Weight of drum"
+
+msgid "張力"
+msgstr "Tension"
+
+msgid "ドラム径"
+msgstr "Diameter of drum"
+
+msgid "ドラム軸受半径"
+msgstr "Bearing radius of drum"
+
+msgid "軸受摩擦係数"
+msgstr "Friction coefficient of bearing"
+
+msgid "ドラム・ベルト摩擦"
+msgstr "Friction coefficient of drum/belt"
+
+msgid "移動速度"
+msgstr "Line speed"
+
+msgid "処理物重量に数値を入力してください"
+msgstr "Enter numeric value in Total weight of product on the drive."
+
+msgid "処理物重量に0.0より大きく入力してください"
+msgstr "Total weight of product on the drive value must be more than 0.0."
+
+msgid "ｼﾞｸﾞ重量に数値を入力してください"
+msgstr "Enter numeric value in Weight of JIG."
+
+msgid "ｼﾞｸﾞ重量に0.0より大きく入力してください"
+msgstr "Weight of JIG value must be more than 0.0."
+
+msgid "メッシュベルト重量に数値を入力してください"
+msgstr "Enter numeric value in Weight of mesh belt."
+
+msgid "メッシュベルト重量に0.0より大きく入力してください"
+msgstr "Weight of mesh belt value must be more than 0.0."
+
+msgid "メッシュベルト幅に数値を入力してください"
+msgstr "Enter numeric value in Width of mesh belt."
+
+msgid "メッシュベルト幅に0.0より大きく入力してください"
+msgstr "Width of mesh belt value must be more than 0.0."
+
+msgid "メッシュベルト長さに数値を入力してください"
+msgstr "Enter numeric value in Length of mesh belt."
+
+msgid "メッシュベルト長さに0.0より大きく入力してください"
+msgstr "Length of mesh belt value must be more than 0.0."
+
+msgid "ドラム重量に数値を入力してください"
+msgstr "Enter numeric value in Weight of drum."
+
+msgid "ドラム重量に0.0より大きく入力してください"
+msgstr "Weight of drum value must be more than 0.0."
+
+msgid "張力に数値を入力してください"
+msgstr "Enter numeric value in Tension."
+
+msgid "張力に0.0より大きく入力してください"
+msgstr "Tension value must be more than 0.0."
+
+msgid "ドラム径に数値を入力してください"
+msgstr "Enter numeric value in Diameter of drum."
+
+msgid "ドラム径に0.0より大きく入力してください"
+msgstr "Diameter of drum value must be more than 0.0."
+
+msgid "ドラム軸受半径に数値を入力してください"
+msgstr "Enter numeric value in Bearing radius of drum."
+
+msgid "ドラム軸受半径に0.0より大きく入力してください"
+msgstr "Bearing radius of drum value must be more than 0.0."
+
+msgid "軸受摩擦係数に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of bearing."
+
+msgid "軸受摩擦係数に0.0より大きく入力してください"
+msgstr "Friction coefficient of bearing value must be more than 0.0."
+
+msgid "ドラム・ベルト摩擦に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of drum/belt."
+
+msgid "ドラム・ベルト摩擦に0.0より大きく入力してください"
+msgstr "Friction coefficient of drum/belt value must be more than 0.0."
+
+msgid "移動速度に数値を入力してください"
+msgstr "Enter numeric value in Line speed."
+
+msgid "移動速度に0.0より大きく入力してください"
+msgstr "Line speed value must be more than 0.0."
+
+msgid "駆動動力：WB式計算入力"
+msgstr "Calculation : WB drive"
+
+msgid "ビーム台車重量(ウオーキングビーム含)"
+msgstr "Weight of beam carriage(incl. walking beams)"
+
+msgid "昇降ロール移動距離"
+msgstr "Lifting hight"
+
+msgid "昇降台車重量"
+msgstr "Weight of lifting carriage"
+
+msgid "水平ロール半径"
+msgstr "Travel roll diameter"
+
+msgid "同軸受半径"
+msgstr "Travel roll bearing radius"
+
+msgid "昇降ロール半径"
+msgstr "Lifting roll radius"
+
+msgid "ロール摩擦係数"
+msgstr "Friction coefficient of rolls"
+
+msgid "軸受摩擦"
+msgstr "Friction coefficient of bearing"
+
+msgid "傾斜台　傾斜角度"
+msgstr "Angle of lifting roll guide slope"
+
+msgid "昇降距離"
+msgstr "Lifting hight"
+
+msgid "上昇時間"
+msgstr "Lifting time"
+
+msgid "下降時間"
+msgstr "Downward time"
+
+msgid "前後進距離"
+msgstr "Traveling distance"
+
+msgid "前進時間"
+msgstr "Forward time"
+
+msgid "後進時間"
+msgstr "Backward time"
+
+msgid "一時停止時間"
+msgstr "Duration of halting"
+
+msgid "加減速時間"
+msgstr "Acceleration and deceleration time"
+
+msgid "サイクル毎停止時間"
+msgstr "Cycle interval"
+
+msgid "処理物重量に数値を入力してください"
+msgstr "Enter numeric value in Total weight of product on the drive."
+
+msgid "ビーム台車重量(ウオーキングビーム含)に数値を入力してください"
+msgstr "Enter numeric value in Weight of beam carriages(incl. walking beams)."
+
+msgid "ビーム台車重量(ウオーキングビーム含)に0.0より大きく入力してください"
+msgstr "Weight of beam carriages(incl. walking beams) value must be more than 0.0."
+
+msgid "昇降ロール移動距離に数値を入力してください"
+msgstr "Enter numeric value in Lifting hight."
+
+msgid "昇降ロール移動距離に0.0より大きく入力してください"
+msgstr "Lifting hight value must be more than 0.0."
+
+msgid "昇降台車重量に数値を入力してください"
+msgstr "Enter numeric value in Weight of lifting carrige."
+
+msgid "昇降台車重量に0.0より大きく入力してください"
+msgstr "Weight of lifting carrige value must be more than 0.0."
+
+msgid "水平ロール半径に数値を入力してください"
+msgstr "Enter numeric value in Travel roll diameter."
+
+msgid "水平ロール半径に0.0より大きく入力してください"
+msgstr "Travel roll diameter value must be more than 0.0."
+
+msgid "同軸受半径に数値を入力してください"
+msgstr "Enter numeric value in Travel roll bearing radius."
+
+msgid "同軸受半径に0.0より大きく入力してください"
+msgstr "Travel roll bearing radius value must be more than 0.0."
+
+msgid "昇降ロール半径に数値を入力してください"
+msgstr "Enter numeric value in Lifting roll radius."
+
+msgid "昇降ロール半径に0.0より大きく入力してください"
+msgstr "Lifting roll radius value must be more than 0.0."
+
+msgid "ロール摩擦係数に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of rolls."
+
+msgid "ロール摩擦係数に0.0より大きく入力してください"
+msgstr "Friction coefficient of rolls value must be more than 0.0."
+
+msgid "軸受摩擦に数値を入力してください"
+msgstr "Enter numeric value in Friction coefficient of bearing."
+
+msgid "軸受摩擦に0.0より大きく入力してください"
+msgstr "Friction coefficient of bearing value must be more than 0.0."
+
+msgid "傾斜台　傾斜角度に数値を入力してください"
+msgstr "Enter numeric value in Angle of lifting roll guide slope."
+
+msgid "傾斜台　傾斜角度に0.0より大きく入力してください"
+msgstr "Angle of lifting roll guide slope value must be more than 0.0."
+
+msgid "昇降距離に数値を入力してください"
+msgstr "Enter numeric value in Lifting hight."
+
+msgid "昇降距離に0.0より大きく入力してください"
+msgstr "Lifting hight value must be more than 0.0."
+
+msgid "上昇時間に数値を入力してください"
+msgstr "Enter numeric value in Lifting time."
+
+msgid "上昇時間に0.0より大きく入力してください"
+msgstr "Lifting time value must be more than 0.0."
+
+msgid "下降時間に数値を入力してください"
+msgstr "Enter numeric value in Downward time."
+
+msgid "下降時間に0.0より大きく入力してください"
+msgstr "Downward time value must be more than 0.0."
+
+msgid "前後進距離に数値を入力してください"
+msgstr "Enter numeric value in Traveling distance."
+
+msgid "前後進距離に0.0より大きく入力してください"
+msgstr "Traveling distance value must be more than 0.0."
+
+msgid "前進時間に数値を入力してください"
+msgstr "Enter numeric value in Forward time."
+
+msgid "前進時間に0.0より大きく入力してください"
+msgstr "Forward time value must be more than 0.0."
+
+msgid "後進時間に数値を入力してください"
+msgstr "Enter numeric value in Backward time."
+
+msgid "後進時間に0.0より大きく入力してください"
+msgstr "Backward time value must be more than 0.0."
+
+msgid "一時停止時間に数値を入力してください"
+msgstr "Enter numeric value in Duration of temporary stop."
+
+msgid "一時停止時間に0.0より大きく入力してください"
+msgstr "Duration of temporary stop value must be more than 0.0."
+
+msgid "加減速時間に数値を入力してください"
+msgstr "Enter numeric value in Acceleration and deceleration time."
+
+msgid "加減速時間に0.0より大きく入力してください"
+msgstr "Acceleration and deceleration time value must be more than 0.0."
+
+msgid "サイクル毎停止時間に数値を入力してください"
+msgstr "Enter numeric value in Cycle interval."
+
+msgid "サイクル毎停止時間に0.0より大きく入力してください"
+msgstr "Cycle interval value must be more than 0.0."
+
+msgid "ユーティリティー入力"
+msgstr "Utilities"
+
+msgid "酸素発生原単位"
+msgstr "Specific energy consumption for oxygen generation"
+
+msgid "酸素使用量"
+msgstr "Oxygen consumption"
+
+msgid "雰囲気ガス発生電力使用原単位"
+msgstr "Specific electrical energy consumption for generation of atmosphere gas"
+
+msgid "雰囲気ガス使用量"
+msgstr "Consumption of atmosphere gas"
+
+msgid "結果出力"
+msgstr "OUT RESULT"
+
+msgid "酸素発生原単位に数値を入力してください"
+msgstr "Enter numeric value in Specific energy consumption for oxygen generation."
+
+msgid "酸素発生原単位に0.0より大きく入力してください"
+msgstr "Specific energy consumption for oxygen generation value must be more than 0.0."
+
+msgid "酸素使用量に数値を入力してください"
+msgstr "Enter numeric value in Oxygen consumption."
+
+msgid "酸素使用量に0.0より大きく入力してください"
+msgstr "Oxygen consumption value must be more than 0.0."
+
+msgid "雰囲気ガス発生電力使用原単位に数値を入力してください"
+msgstr "Enter numeric value in Specific electrical energy consumption for generation of atmosphere gas."
+
+msgid "雰囲気ガス発生電力使用原単位に0.0より大きく入力してください"
+msgstr "Specific electrical energy consumption for generation of atmosphere gas value must be more than 0.0."
+
+msgid "雰囲気ガス使用量に数値を入力してください"
+msgstr "Enter numeric value in Consumption of atmosphere gas."
+
+msgid "雰囲気ガス使用量に0.0より大きく入力してください"
+msgstr "Consumption of atmosphere gas value must be more than 0.0."
+
+msgid "English"
+msgstr "日本語"
+
+msgid "ログインIDを入力してください"
+msgstr "Please enter login id."
+
+msgid "日本語"
+msgstr "日本語"
+
+msgid "Login ID"
+msgstr "Login ID"
+
+msgid "Please input login ID"
+msgstr "Please input login ID"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please input password"
+msgstr "Please input password"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "排ガス温度"
+msgstr "temp. of exhaust"
+
+msgid "出力表5: Thermal energy balance with heat excanger（Combustion furnace）"
+msgstr "Output 5: Thermal energy balance with heat excanger(Combustion furnace)"
+
+msgid "出力値(kJ/t)"
+msgstr "Output value(kJ/t)"
+
+msgid "比率(%)"
+msgstr "Ratio(%)"
+
+msgid "排熱回収率改善（画面２で選ばれた時表示）"
+msgstr "Waste heat revovery"
+
+msgid "改善後の排熱回収率"
+msgstr "Target data"
+
+msgid "予熱温度"
+msgstr "Pre heat temp"
+
+msgid "炉体損失熱改善（画面２で選ばれた時表示）"
+msgstr "Improvement in dissipation heat TPE structure"
+
+msgid "冷却損失"
+msgstr "Cooling water"
+
+msgid "ジグ・トレー改善（画面２で選ばれた時表示）"
+msgstr "Improvement in Jigs,Trays"
+
+msgid "ジグ重量"
+msgstr "Mass of JIGs"
+
+msgid "ジグ入口温度"
+msgstr "JIG temp. at inlet"
+
+msgid "ジグ出口温度"
+msgstr "JIG temp. at outlet"
+
+msgid "材料予熱改善（画面２で選ばれた時表示）"
+msgstr "Inprovement in pre heating affect of product"
+
+msgid "入口温度"
+msgstr "Inlet temp."
+
+msgid "出口温度"
+msgstr "Outlet temp."
+
+msgid "材料必要熱量"
+msgstr "Required heat for product"
+
+msgid "空気比改善（画面２で選ばれた時表示）"
+msgstr "Inprovement in Air/fuel ratio"
+
+msgid "空気比"
+msgstr "Air/fuel ratio"
+
+msgid "改善検討まとめ"
+msgstr "Improvement study Summary"
+
+msgid "現状値"
+msgstr "Current data"
+
+msgid "改善値"
+msgstr "Target data"
+
+msgid "省エネ率"
+msgstr "Energy saving ratio"
+
+msgid "保存して終了"
+msgstr "SAVE and Exit"
+
+msgid "省エネルギー対策処理(電気炉) 結果"
+msgstr "Energy saving measure summary -Electroheat TPE."
+
+msgid "電気損失（画面１１で選ばれた場合表示）"
+msgstr "Electrical energy loss"
+
+msgid "炉体損失改善（画面１１で選ばれた場合表示）"
+msgstr "Heat emission from wall surface"
+
+msgid "ジグ材料名称"
+msgstr "Material"
+
+msgid "材料予熱改善（画面１１で選ばれた場合表示）"
+msgstr "Inprovement in pre heating affect of product"
+
+msgid "材料搬送量"
+msgstr "Line speed"
+
+msgid "電気損失改善検討"
+msgstr "Electrical energy loss"
+
+msgid "炉体損失熱改善検討"
+msgstr "Heat loss from furnace structure"
+
+msgid "ジグ、トレー必要熱改善検討"
+msgstr "Heat loss by jigs, trays"
+
+msgid "材料予熱効果改善検討"
+msgstr "Preheat of product"
+
+msgid "燃焼炉対策の実行"
+msgstr "Energy savingmeasure conbustion TPE"
+
+msgid "作成したヒートバランス表に基づいて燃焼炉の省エネルギー対策の検討を行います。"
+msgstr "Rus energy saving calculation based in the heat balance."
+
+msgid "燃焼炉対策処理"
+msgstr "Calculation : Combustion TPE"
+
+msgid "検討する項目の"
+msgstr "Click Calc. "
+
+msgid "を選んで、改善後の数値を入力してください。"
+msgstr "on Items you examine."
+
+msgid "検討項目"
+msgstr "Exam. item"
+
+msgid "改善後"
+msgstr "Target data"
+
+msgid "空気比の改善検討"
+msgstr "Air/fuel ratio"
+
+msgid "炉体損失熱の改善"
+msgstr "Dissipation from TPE structure"
+
+msgid "改善後の目標値を入力してＯＫを押してください。"
+msgstr "Set target values."
+
+msgid "排熱回収率"
+msgstr "Waste heat recovery ratio:current data"
+
+msgid "ジグ・トレー改善"
+msgstr "Improvement in Jigs,Trays"
+
+msgid "ジグ材料"
+msgstr "Jig material"
+
+msgid "材料予熱改善"
+msgstr "Inprovement in pre heating affect of product"
+
+msgid "空気比改善"
+msgstr "Inprovement in Air/fuel ratio"
+
+msgid "排ガス酸素濃度を入力してください。空気比は計算され表示されます。"
+msgstr "Set target value of oxygen content in exhaust gas.(Air/fule ratio will appear.)"
+
+msgid "改善後の目標値を入力してOKを押してください。"
+msgstr "Set target values."
+
+msgid "電気炉の省エネ対策"
+msgstr "Energy saving measure - Electroheat TPE"
+
+msgid "作成したヒートバランス表に基づいて電気炉の省エネルギー対策の検討を行います。"
+msgstr "Run energy saving calculation based on the heat balance table?"
+
+msgid "電気炉対策処理"
+msgstr "Electroheat TPE"
+
+msgid "電気損失改善検討実行"
+msgstr "Improvement in Electrical energy loss"
+
+msgid "炉体損失熱改善検討実行"
+msgstr "Dissipation from TPE structure"
+
+msgid "ジグ、トレー必要熱改善検討実行"
+msgstr "Improvement in Jigs,Trays"
+
+msgid "材料予熱効果改善検討実行"
+msgstr "Inprovement in pre heating affect of product"
+
+msgid "炉体損失改善"
+msgstr "Dissipation from TPE structure"
+
+msgid "閉じる"
+msgstr "Close"
+
+msgid "材料必要量"
+msgstr "Required enthalpy of product"
+
+msgid "電気損失改善"
+msgstr "Improvement in Electrical energy loss"
+
+msgid "後で入力を続ける場合は、下書き保存してください。\\n作業を中止すると全ての入力データは消去されます。\\n終了してよろしいですか？"
+msgstr "Are you sure you want to back to menu?\nPlease save your input data if you want to resume."
+
+msgid "EXIT"
+msgstr "EXIT"
+
+msgid "下書き保存"
+msgstr "Save as draft"
+
+msgid "作業を中止すると全ての入力データは消去されます。\\n終了してよろしいですか？"
+msgstr "Are you sure you want to close?\\n If you close all of the input data will be erased."
+
+msgid "COMPLANメール配信システム 管理画面"
+msgid "エネルギー効率評価システム | 一般社団法人 日本工業炉協会"
+msgstr "Evalueation System for Energy Effeciency of TPE | Japan Industrial Furnace Manufacturers Association"
+
+msgid "ログアウトしました。"
+msgstr "Logged out"
+
+msgid "ログイン画面へ"
+msgstr "To login page"
+
+msgid "ようこそ工業炉の効率評価解析ツールへ"
+msgstr "Welcome!"
+
+msgid "エネルギー収支計算"
+msgstr "Energy Balance Calculation"
+
+msgid "はじめから入力"
+msgstr "Start"
+
+msgid "続きを入力"
+msgstr "Resume"
+
+msgid "省エネ対策"
+msgstr "Energy Saving Measure"
+
+msgid "エネルギー収支計算の入力完了後に選択できます"
+msgstr "Please saved Energy Balance Calculation first. \\n  You will be able to start after saved it."
+
+msgid "省エネ対策 選択"
+msgstr "Select type of TPE"
+
+msgid "燃焼炉"
+msgstr "Combustion TPE"
+
+msgid "電気炉"
+msgstr "Electroheat TPE"
+
+msgid "ハイブリット型には対応しておりません。"
+msgstr "Evalution for hybrid type is not available."
+
+msgid "パスワード変更"
+msgstr "Change password"
+
+msgid "パスワード再入力"
+msgstr "Reenter password"
+
+msgid "パスワードを再入力してください"
+msgstr "Please enter password again."
+
+msgid "パスワード送付完了"
+msgstr "Password has sent to your e-mail address."
+
+msgid "パスワードを送付しました。"
+msgstr "Password has sent."
+
+msgid "パスワードを送信"
+msgstr "Send"
+
+
+msgid "ご入力いただいたメールアドレスに、パスワードを送信します。"
+msgstr "Please enter your e-mail and recieve password."
+
+msgid "メール受信を確認後、このウィンドウを閉じてください"
+msgstr "Close this window when you have received your password for reopening."
+
+msgid "メールは迷惑メールフォルダに振り分けされる場合もございます。"
+msgstr "*notice: please check your junk mail folder. it may recieve there."
+
+msgid "ご入力いただいたメールアドレスに、パスワードを送信します。<br>\nメール受信を確認後、このウィンドウを閉じてください。"
+msgstr "<br>\nClose this window when you have received your password for reopening."
+
+msgid "※メールは迷惑メールフォルダに振り分けされる場合もございます。"
+msgstr "*notice: please check your junk mail folder. it may recieve there."
+
+msgid "メモ"
+msgstr "Memo"
+
+msgid "メモを入力してください"
+msgstr "Enter Memo"
+
+msgid "メールを送信"
+msgstr "Send"
+
+msgid "半角英数字で入力してください"
+msgstr "Input half bite alphabetical and numeric."
+
+msgid "パスワードを入力してください"
+msgstr "Enter password"
+
+msgid "4文字以上16文字以内の半角英数字で入力してください"
+msgstr "Input 4 to 16 characters alphabet and numeric."
+
+msgid "確認パスワードを同じパスワードで入力してください"
+msgstr "Enter confirm password."
+
+msgid "確認パスワードを入力してください"
+msgstr "Enter confirm password."
+
+msgid "全角50文字以内で入力してください"
+msgstr "Input maximum 100 charctors alphabet and numeric."
+
+msgid " 電子メールを入力してください"
+msgstr "Entry e-mail address"
+
+msgid "半角英数字で入力してください"
+msgstr "Input alphabet and numeric only."
+
+msgid "雰囲気炉"
+msgstr "Furnaces with protective or reactive atomosphere"
+
+msgid "YES"
+msgstr "Yes"
+
+msgid "NO"
+msgstr "No"
+
+msgid "ユーザーアカウントを削除失敗しましたので再度試してしてください"
+msgstr "Failed delete to user account. Please try again."
+
+msgid "ログインID・パスワードが誤りしています"
+msgstr "Wrong user ID or Password."
+
+msgid " メールアドレスが既に存在しました"
+msgstr "E-mail address is already exist."
+
+msgid "パスワード送付 | COMPLANメール配信システム | 管理画面"
+msgstr "Password confirmation | Evalueation System for Energy Effeciency of TPE | Japan Industrial Furnace Manufacturers Association"
+
+msgid "雰囲気ガス製造を選択してください"
+msgstr "Select Generation of atmosphere gas"
+
+msgid "燃焼用空気量（測定値）"
+msgstr "measured combustion air volume per ton of product"
+
+msgid "燃焼用空気量（測定値）に数値を入力してください"
+msgstr "Enter measured combustion air volume per ton of product"
+
+msgid "燃焼用空気量（測定値）に0.0より大きく入力してください"
+msgstr "Measured combustion air volume per ton of product value must be more than 0.0."
+
+msgid "熱伝導率"
+msgstr "Heat conductivity"
+
+msgid "駆動電力タイプ"
+msgstr "Drive system"
+
+msgid "Login ID"
+msgstr ""
+
+msgid "Username, password is required."
+msgstr ""
+
+msgid "ジグ重量に数値を入力してください"
+msgstr "Enter Weight of JIG"
+
+msgid "ジグ出口温度に数値を入力してください"
+msgstr "Enter outlet temp. of JIG"
+
+msgid "メール受信を確認後、このウィンドウを閉じてください。"
+msgstr "Close this window when you have received your password for reopening."
+
+msgid "排熱回収率の改善検討を計算して下さい"
+msgstr "Enter Waste heat recovery."
+
+msgid "炉体損失熱の改善検討を計算して下さい"
+msgstr "Enter dissipation from TPE structure."
+
+msgid "ジグ、トレー必要熱の改善を計算して下さい"
+msgstr "Enter required heat for JIGs or trays."
+
+msgid "材料予熱効果の検討を計算して下さい"
+msgstr "Enter preheating effect of products."
+
+msgid "空気比の改善検討を計算して下さい"
+msgstr "Enter air/fuel ratio."
+
+msgid "電気損失改善検討実行を計算して下さい"
+msgstr "Enter electrical energy loss."
+
+msgid "炉体損失熱改善検討実行を計算して下さい"
+msgstr "Enter heat loss from furnace structure."
+
+msgid "ジグ、トレー必要熱改善検討実行を計算して下さい"
+msgstr "Enter heat loss by jigs, trays."
+
+msgid "材料予熱効果改善検討実行を計算して下さい"
+msgstr "Enter preheat of product."
+
+msgid "水素に数値を入力してください"
+msgstr "Enter hydrogen value."
+
+msgid "水素に0.0より大きく入力してください"
+msgstr "Hydrogen value must be more than 0.0."
+
+msgid "一酸化炭素に数値を入力してください"
+msgstr "Enter carbon monoxide."
+
+msgid "一酸化炭素に0.0より大きく入力してください"
+msgstr "Carbon monoxide value must be more than 0.0."
+
+msgid "メタンに数値を入力してください"
+msgstr "Enter methane value."
+
+msgid "メタンに0.0より大きく入力してください"
+msgstr "Methane value must be more than 0.0."
+
+msgid "エタンに数値を入力してください"
+msgstr "Enter ethane value."
+
+msgid "エタンに0.0より大きく入力してください"
+msgstr "Ethane value must be more than 0.0."
+
+msgid "プロパンに数値を入力してください"
+msgstr "Enter propane value."
+
+msgid "プロパンに0.0より大きく入力してください"
+msgstr "Propane value must be more than 0.0."
+
+msgid "ノーマル-ブタンに数値を入力してください"
+msgstr "Enter n-butane value."
+
+msgid "ノーマル-ブタンに0.0より大きく入力してください"
+msgstr "n-butane value must be more than 0.0."
+
+msgid "イソ-ブタンに数値を入力してください"
+msgstr "Enter iso-butane value."
+
+msgid "イソ-ブタンに0.0より大きく入力してください"
+msgstr "iso-butane value must be more than 0.0."
+
+msgid "エチレンに数値を入力してください"
+msgstr "Enter ethylene value."
+
+msgid "エチレンに0.0より大きく入力してください"
+msgstr "ethylene value must be more than 0.0."
+
+msgid "プロピレンに数値を入力してください"
+msgstr "Enter propylene value."
+
+msgid "プロピレンに0.0より大きく入力してください"
+msgstr "propylene value must be more than 0.0."
+
+msgid "1-ブテンに数値を入力してください"
+msgstr "Enter 1-butene value."
+
+msgid "1-ブテンに0.0より大きく入力してください"
+msgstr "1-butene value must be more than 0.0."
+
+msgid "シス-2-ブテンに数値を入力してください"
+msgstr "Enter cis-2-butene value."
+
+msgid "シス-2-ブテンに0.0より大きく入力してください"
+msgstr "cis-2-butene value must be more than 0.0."
+
+msgid "トランス-2-ブテンに数値を入力してください"
+msgstr "Enter trans-2-butene value."
+
+msgid "トランス-2-ブテンに0.0より大きく入力してください"
+msgstr "trans-2-butene value must be more than 0.0."
+
+msgid "アセチレンに数値を入力してください"
+msgstr "Enter acetylene value."
+
+msgid "アセチレンに0.0より大きく入力してください"
+msgstr "acetylene value must be more than 0.0."
+
+msgid "酸素に数値を入力してください"
+msgstr "Enter oxygen value."
+
+msgid "酸素に0.0より大きく入力してください"
+msgstr "oxygen value must be more than 0.0."
+
+msgid "空気（ドライ）に数値を入力してください"
+msgstr "Enter dry air value."
+
+msgid "空気（ドライ）に0.0より大きく入力してください"
+msgstr "dry air value must be more than 0.0."
+
+msgid "窒素に数値を入力してください"
+msgstr "Enter nitrogen value."
+
+msgid "窒素に0.0より大きく入力してください"
+msgstr "nitrogen value must be more than 0.0."
+
+msgid "二酸化炭素に数値を入力してください"
+msgstr "Enter carbon dioxide value."
+
+msgid "二酸化炭素に0.0より大きく入力してください"
+msgstr "carbon dioxide value must be more than 0.0."
+
+msgid "いいえ"
+msgstr "NO"
+
+msgid "このページが存在しません。"
+msgstr "This page not exist."
+
+msgid "ジグ材料を選択してください"
+msgstr "Select jig material"
+
+msgid "ジグ出口温度に数値を入力してください"
+msgstr "Enter temp. of JIG at outlet."
+
+msgid "デ－タ入力"
+msgstr "Enter data"
+
+msgid "はい"
+msgstr "YES"
+
+msgid "パスワードエラー:"
+msgstr "Password error"
+
+msgid "パスワードお知らせ"
+msgstr "Password"
+
+msgid "メール・パスワードは存在していません。"
+msgstr "E-mail, Password not exist."
+
+msgid "メールアドレス,パスワードを入力"
+msgstr "Enter e-mail, password"
+
+msgid "メールアドレスエラー:"
+msgstr "Error: E-mail address"
+
+msgid "ログインIDエラー:"
+msgstr "Error: Login ID"
+
+msgid "加熱室のみ"
+msgstr "Only heating chamber"
+
+msgid "可燃性付着物を選択してください"
+msgstr "Select Combustible waste"
+
+msgid "会員名ラー:"
+msgstr "Error: Member name"
+
+msgid "改善後を入力して下さい"
+msgstr "Enter: target value"
+
+msgid "確認パスワードエラー:"
+msgstr "Enter: Confirmation password"
+
+msgid "既定値選択"
+msgstr "Select default value"
+
+msgid "材料搬送量に数値を入力してください"
+msgstr "Enter normal capacity."
+
+msgid "酸素の使用がありますか？"
+msgstr "oxygen"
+
+msgid "出口温度に数値を入力してください"
+msgstr "Enter outlet temp."
+
+msgid "前回受信したパスワード入力してください。"
+msgstr "Enter password which you recieved previously."
+
+msgid "低位発熱量"
+msgstr "low calorific value"
+
+msgid "電気エネルギー評価"
+msgstr "electroheat energy evaluation"
+
+msgid "電気炉の省エネ対策選択してください"
+msgstr "Select Energy saving major for electroheat furnace"
+
+msgid "電子メールを入力してください"
+msgstr "Enter e-mail address"
+
+msgid "入口温度に数値を入力してください"
+msgstr "Enter inlet temp."
+
+msgid "燃焼炉対策の実行選択してください"
+msgstr "Select Rus energy saving calculation based in the heat balance."
+
+msgid "排ガス酸素濃度に0.0より大きく入力してください"
+msgstr "oxygen content in exhaust gas value must be more than 0.0."
+
+msgid "排ガス酸素濃度に数値を入力してください"
+msgstr "Enter oxygen content in exhaust gas value."
+
+msgid "排熱回収率に0.0より大きく入力してください"
+msgstr "current data value must be more than 0.0."
+
+msgid "排熱回収率に数値を入力してください"
+msgstr "Enter current data."
+
+msgid "雰囲気ガスの使用がありますか？"
+msgstr "Atmospheric gas"
+
+msgid "流動温度"
+msgstr "Average pouring temp."
+
+msgid "冷却損失に数値を入力してください"
+msgstr "Enter cooling water."
+
+msgid "連続金属加熱炉"
+msgstr ""
+
+msgid "8桁以下の場合、エラーがでてくる"
+msgstr "Password must be more than 8 charactors."
+
+msgid "車輪回転数"
+msgstr "Rpm of wheel"
+
+msgid "管理ページへ戻る"
+msgstr "Back to admin page"
+
+msgid "8文字以上16文字以内の半角英数字で入力してください"
+msgstr "Enter more than 8 to 16 characters or less."
+
+msgid "炉体の損失熱関連の処理を選択してください"
+msgstr "Select perform calculation of heat loss from furnace structure"
+
+msgid "TPE名称に40文字以内を入力してください"
+msgstr "TPE name must be 40 characters or less."
+
+msgid "型式に40文字以内を入力してください"
+msgstr "Model must be 40 characters or less."
+
+msgid "燃料をひとつ選択してください"
+msgstr "Select Energy"
+
+msgid "年"
+msgstr "/"
+
+msgid "月"
+msgstr "/"
+
+msgid "日"
+msgstr " "
+
+msgid "クリア"
+msgstr "Clear"
